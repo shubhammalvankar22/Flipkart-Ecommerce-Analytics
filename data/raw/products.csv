@@ -1,0 +1,1201 @@
+product_id,product_name,category,brand,mrp,unit_cost,seller_type,avg_rating
+P00001,Nestle Grocery 595,Grocery,Nestle,480.0,436.28,Marketplace,4.0
+P00002,Biba Fashion 640,Fashion,Biba,450.0,247.16,Assured,3.8
+P00003,Penguin Books 843,Books,Penguin,583.0,363.67,Assured,4.2
+P00004,Aashirvaad Grocery 382,Grocery,Aashirvaad,430.0,380.83,Marketplace,4.3
+P00005,Samsung Mobiles 290,Mobiles,Samsung,7020.0,6567.25,Marketplace,4.3
+P00006,Nivia Sports 522,Sports & Fitness,Nivia,4460.0,2892.07,Marketplace,4.3
+P00007,Fortune Grocery 626,Grocery,Fortune,180.0,153.58,Marketplace,4.5
+P00008,Fortune Grocery 286,Grocery,Fortune,130.0,113.52,Assured,4.1
+P00009,Dell Laptops 388,Laptops,Dell,119790.0,103947.38,Assured,4.8
+P00010,Biba Fashion 648,Fashion,Biba,760.0,405.69,Marketplace,3.9
+P00011,Levis Fashion 196,Fashion,Levis,510.0,269.71,Marketplace,3.7
+P00012,Mattel Toys 778,Toys,Mattel,2080.0,1287.91,Assured,4.3
+P00013,Maybelline Beauty 460,Beauty,Maybelline,170.0,100.2,Marketplace,4.3
+P00014,Oxford Books 253,Books,Oxford,636.0,413.19,Assured,4.1
+P00015,Levis Fashion 625,Fashion,Levis,1050.0,556.02,Assured,4.3
+P00016,Anker Electronics 878,Electronics Accessories,Anker,280.0,197.75,Assured,3.9
+P00017,Wakefit Home 669,Home & Kitchen,Wakefit,1170.0,792.96,Marketplace,4.0
+P00018,Apple Mobiles 505,Mobiles,Apple,16520.0,14969.0,Assured,4.2
+P00019,HarperCollins Books 388,Books,HarperCollins,405.0,247.23,Assured,4.6
+P00020,Mamaearth Beauty 750,Beauty,Mamaearth,240.0,142.4,Assured,4.0
+P00021,Britannia Grocery 331,Grocery,Britannia,810.0,736.09,Marketplace,4.3
+P00022,Biba Fashion 147,Fashion,Biba,2020.0,1160.5,Assured,4.2
+P00023,Adidas Sports 104,Sports & Fitness,Adidas,1920.0,1190.41,Marketplace,4.2
+P00024,Lego Toys 768,Toys,Lego,270.0,167.7,Assured,4.3
+P00025,Britannia Grocery 807,Grocery,Britannia,100.0,86.51,Marketplace,4.7
+P00026,LG Appliances 343,Appliances,LG,26290.0,21334.06,Marketplace,3.5
+P00027,Pigeon Home 967,Home & Kitchen,Pigeon,1630.0,1108.62,Marketplace,3.8
+P00028,Motorola Mobiles 889,Mobiles,Motorola,32980.0,29309.38,Assured,4.3
+P00029,Samsung Appliances 607,Appliances,Samsung,22450.0,19767.23,Marketplace,4.5
+P00030,Lakme Beauty 475,Beauty,Lakme,420.0,242.38,Marketplace,3.9
+P00031,Nestle Grocery 373,Grocery,Nestle,220.0,200.85,Assured,4.2
+P00032,Decathlon Sports 720,Sports & Fitness,Decathlon,1400.0,879.37,Marketplace,4.1
+P00033,Roadster Fashion 136,Fashion,Roadster,1790.0,980.73,Assured,3.6
+P00034,Nike Fashion 269,Fashion,Nike,560.0,303.2,Assured,4.4
+P00035,Pigeon Home 827,Home & Kitchen,Pigeon,1070.0,728.5,Assured,4.3
+P00036,Bosch Appliances 670,Appliances,Bosch,47010.0,39208.14,Assured,4.2
+P00037,Lenovo Laptops 993,Laptops,Lenovo,70920.0,65272.38,Assured,3.9
+P00038,Cello Home 911,Home & Kitchen,Cello,780.0,483.94,Marketplace,3.7
+P00039,Noise Electronics 153,Electronics Accessories,Noise,300.0,217.03,Assured,4.0
+P00040,Himalaya Beauty 610,Beauty,Himalaya,1970.0,1169.85,Assured,4.4
+P00041,HRX Fashion 379,Fashion,HRX,4170.0,2222.26,Assured,3.8
+P00042,Arihant Books 879,Books,Arihant,178.0,112.65,Marketplace,4.3
+P00043,Fortune Grocery 948,Grocery,Fortune,1030.0,872.59,Marketplace,4.3
+P00044,Biba Fashion 908,Fashion,Biba,1490.0,858.16,Marketplace,3.2
+P00045,Oxford Books 447,Books,Oxford,340.0,207.88,Assured,4.5
+P00046,Britannia Grocery 801,Grocery,Britannia,120.0,105.03,Marketplace,4.5
+P00047,HRX Fashion 241,Fashion,HRX,440.0,234.88,Marketplace,4.3
+P00048,Nike Fashion 941,Fashion,Nike,1390.0,800.98,Assured,4.0
+P00049,Himalaya Beauty 156,Beauty,Himalaya,230.0,133.79,Assured,4.2
+P00050,Asus Laptops 662,Laptops,Asus,71220.0,60805.09,Marketplace,4.8
+P00051,Voltas Appliances 953,Appliances,Voltas,46370.0,38358.36,Assured,4.8
+P00052,OnePlus Mobiles 950,Mobiles,OnePlus,21930.0,19496.82,Marketplace,4.0
+P00053,Britannia Grocery 388,Grocery,Britannia,170.0,151.89,Marketplace,4.3
+P00054,Biotique Beauty 748,Beauty,Biotique,290.0,168.24,Marketplace,3.8
+P00055,Britannia Grocery 547,Grocery,Britannia,130.0,114.62,Assured,4.0
+P00056,Aashirvaad Grocery 537,Grocery,Aashirvaad,1580.0,1387.33,Assured,4.2
+P00057,HRX Fashion 304,Fashion,HRX,1680.0,936.72,Assured,4.8
+P00058,Milton Home 906,Home & Kitchen,Milton,1310.0,849.42,Assured,4.3
+P00059,Apple Laptops 802,Laptops,Apple,85150.0,74393.76,Marketplace,4.8
+P00060,Dell Laptops 412,Laptops,Dell,82840.0,74084.03,Marketplace,3.9
+P00061,Mamaearth Beauty 482,Beauty,Mamaearth,430.0,266.05,Assured,3.7
+P00062,Cello Home 293,Home & Kitchen,Cello,1280.0,852.4,Assured,4.4
+P00063,Prestige Home 771,Home & Kitchen,Prestige,2160.0,1459.41,Assured,4.7
+P00064,Nestle Grocery 238,Grocery,Nestle,1420.0,1211.82,Assured,4.3
+P00065,Biotique Beauty 783,Beauty,Biotique,1800.0,1102.48,Assured,4.4
+P00066,Wakefit Home 232,Home & Kitchen,Wakefit,1350.0,857.62,Assured,4.1
+P00067,Wakefit Home 733,Home & Kitchen,Wakefit,1700.0,1057.48,Assured,4.2
+P00068,Roadster Fashion 832,Fashion,Roadster,2450.0,1340.53,Marketplace,3.9
+P00069,Apple Mobiles 258,Mobiles,Apple,17940.0,16093.5,Assured,3.5
+P00070,HRX Fashion 382,Fashion,HRX,2470.0,1327.64,Assured,4.3
+P00071,Portronics Electronics 431,Electronics Accessories,Portronics,560.0,381.65,Marketplace,3.9
+P00072,Nike Fashion 678,Fashion,Nike,1330.0,758.36,Marketplace,3.3
+P00073,Oxford Books 916,Books,Oxford,739.0,471.53,Assured,4.5
+P00074,JBL Electronics 529,Electronics Accessories,JBL,210.0,146.92,Assured,4.2
+P00075,OnePlus Mobiles 852,Mobiles,OnePlus,29550.0,25554.22,Assured,4.3
+P00076,Levis Fashion 994,Fashion,Levis,3110.0,1774.29,Marketplace,4.4
+P00077,Levis Fashion 341,Fashion,Levis,1060.0,589.2,Marketplace,3.6
+P00078,Mamaearth Beauty 366,Beauty,Mamaearth,720.0,417.74,Assured,3.9
+P00079,Wakefit Home 462,Home & Kitchen,Wakefit,5970.0,4010.16,Marketplace,3.9
+P00080,Tata Grocery 829,Grocery,Tata,160.0,137.49,Marketplace,4.1
+P00081,Himalaya Beauty 832,Beauty,Himalaya,1010.0,589.96,Assured,3.8
+P00082,Roadster Fashion 486,Fashion,Roadster,760.0,415.18,Assured,4.0
+P00083,Scholastic Books 440,Books,Scholastic,598.0,383.19,Assured,4.1
+P00084,Whirlpool Appliances 993,Appliances,Whirlpool,26600.0,21313.15,Assured,4.1
+P00085,Vivo Mobiles 180,Mobiles,Vivo,57870.0,51537.35,Marketplace,3.4
+P00086,Apple Mobiles 275,Mobiles,Apple,11450.0,10212.31,Assured,3.7
+P00087,Nestle Grocery 720,Grocery,Nestle,590.0,544.28,Assured,4.2
+P00088,Prestige Home 321,Home & Kitchen,Prestige,5500.0,3657.16,Marketplace,4.4
+P00089,LG Appliances 280,Appliances,LG,21880.0,17800.94,Assured,4.3
+P00090,Pigeon Home 915,Home & Kitchen,Pigeon,3680.0,2464.41,Assured,4.0
+P00091,Samsung Appliances 221,Appliances,Samsung,14590.0,12799.5,Assured,4.9
+P00092,Britannia Grocery 458,Grocery,Britannia,1050.0,881.04,Assured,4.1
+P00093,Roadster Fashion 289,Fashion,Roadster,2660.0,1524.06,Marketplace,3.4
+P00094,Nike Fashion 145,Fashion,Nike,690.0,393.44,Assured,3.9
+P00095,Nike Fashion 215,Fashion,Nike,2520.0,1424.92,Marketplace,3.6
+P00096,Lakme Beauty 888,Beauty,Lakme,520.0,312.86,Marketplace,4.3
+P00097,Nike Fashion 358,Fashion,Nike,2450.0,1296.0,Assured,4.1
+P00098,Realme Mobiles 623,Mobiles,Realme,26140.0,23279.22,Marketplace,3.9
+P00099,Apple Laptops 762,Laptops,Apple,44620.0,39964.42,Assured,3.6
+P00100,Decathlon Sports 963,Sports & Fitness,Decathlon,3450.0,2292.25,Marketplace,4.8
+P00101,Lego Toys 673,Toys,Lego,600.0,359.06,Marketplace,3.9
+P00102,Britannia Grocery 887,Grocery,Britannia,310.0,266.91,Marketplace,4.1
+P00103,Puma Fashion 894,Fashion,Puma,4290.0,2312.62,Marketplace,3.6
+P00104,Cosco Sports 691,Sports & Fitness,Cosco,2070.0,1389.85,Assured,3.6
+P00105,Tata Grocery 606,Grocery,Tata,720.0,633.32,Assured,4.3
+P00106,Nestle Grocery 127,Grocery,Nestle,1100.0,957.98,Marketplace,3.9
+P00107,Nike Fashion 331,Fashion,Nike,2460.0,1402.6,Marketplace,4.2
+P00108,Nike Fashion 577,Fashion,Nike,670.0,378.79,Assured,3.6
+P00109,Xiaomi Mobiles 961,Mobiles,Xiaomi,7510.0,6900.95,Marketplace,3.4
+P00110,Funskool Toys 528,Toys,Funskool,940.0,561.15,Marketplace,4.4
+P00111,Biba Fashion 829,Fashion,Biba,3430.0,1858.12,Assured,4.1
+P00112,Noise Electronics 911,Electronics Accessories,Noise,5460.0,3983.25,Assured,4.3
+P00113,Roadster Fashion 180,Fashion,Roadster,670.0,354.5,Assured,4.7
+P00114,Prestige Home 219,Home & Kitchen,Prestige,380.0,255.08,Assured,4.1
+P00115,Whirlpool Appliances 893,Appliances,Whirlpool,29790.0,25370.1,Assured,3.7
+P00116,Arihant Books 411,Books,Arihant,334.0,206.41,Assured,3.9
+P00117,Fortune Grocery 238,Grocery,Fortune,210.0,180.11,Marketplace,3.7
+P00118,Britannia Grocery 869,Grocery,Britannia,670.0,564.7,Marketplace,4.0
+P00119,Puma Fashion 719,Fashion,Puma,680.0,389.33,Assured,3.9
+P00120,Nivea Beauty 598,Beauty,Nivea,340.0,206.49,Marketplace,3.8
+P00121,Pigeon Home 723,Home & Kitchen,Pigeon,460.0,304.23,Marketplace,3.8
+P00122,Lakme Beauty 467,Beauty,Lakme,530.0,304.86,Assured,3.8
+P00123,Vivo Mobiles 313,Mobiles,Vivo,48590.0,45173.03,Assured,4.1
+P00124,Nike Fashion 548,Fashion,Nike,1260.0,701.3,Marketplace,3.7
+P00125,OnePlus Mobiles 641,Mobiles,OnePlus,27790.0,25605.05,Assured,4.1
+P00126,Cello Home 928,Home & Kitchen,Cello,1370.0,889.92,Assured,4.4
+P00127,Nike Fashion 262,Fashion,Nike,1190.0,635.97,Assured,4.1
+P00128,Whirlpool Appliances 791,Appliances,Whirlpool,20420.0,17553.26,Assured,4.0
+P00129,HP Laptops 946,Laptops,HP,38460.0,32719.0,Marketplace,4.2
+P00130,Pigeon Home 470,Home & Kitchen,Pigeon,2260.0,1507.14,Assured,4.2
+P00131,LG Appliances 779,Appliances,LG,23250.0,20213.02,Marketplace,3.5
+P00132,Lego Toys 325,Toys,Lego,510.0,298.74,Assured,4.3
+P00133,Prestige Home 573,Home & Kitchen,Prestige,6790.0,4474.86,Marketplace,4.3
+P00134,Puma Fashion 575,Fashion,Puma,660.0,375.08,Assured,4.4
+P00135,Milton Home 985,Home & Kitchen,Milton,6690.0,4525.1,Marketplace,4.1
+P00136,OnePlus Mobiles 592,Mobiles,OnePlus,16160.0,14632.39,Assured,4.2
+P00137,Yonex Sports 773,Sports & Fitness,Yonex,1210.0,773.41,Assured,4.1
+P00138,Cello Home 864,Home & Kitchen,Cello,540.0,349.11,Assured,4.1
+P00139,Tata Grocery 119,Grocery,Tata,460.0,397.37,Assured,4.2
+P00140,OnePlus Mobiles 158,Mobiles,OnePlus,14340.0,12331.6,Assured,4.0
+P00141,Prestige Home 239,Home & Kitchen,Prestige,4350.0,2857.63,Assured,3.8
+P00142,Milton Home 821,Home & Kitchen,Milton,380.0,256.71,Assured,4.0
+P00143,Lego Toys 593,Toys,Lego,2360.0,1366.45,Assured,3.9
+P00144,Pigeon Home 638,Home & Kitchen,Pigeon,2940.0,1997.6,Assured,4.3
+P00145,Wakefit Home 423,Home & Kitchen,Wakefit,1350.0,853.32,Assured,4.5
+P00146,Puma Fashion 116,Fashion,Puma,2240.0,1224.51,Marketplace,3.8
+P00147,Nike Fashion 828,Fashion,Nike,2620.0,1471.51,Assured,3.9
+P00148,Wakefit Home 320,Home & Kitchen,Wakefit,2010.0,1246.73,Assured,3.6
+P00149,Roadster Fashion 258,Fashion,Roadster,1090.0,618.95,Marketplace,4.4
+P00150,Realme Mobiles 116,Mobiles,Realme,79060.0,74177.78,Marketplace,4.1
+P00151,Arihant Books 972,Books,Arihant,589.0,380.0,Marketplace,4.3
+P00152,Funskool Toys 863,Toys,Funskool,300.0,182.05,Marketplace,3.9
+P00153,Voltas Appliances 238,Appliances,Voltas,26630.0,22905.55,Assured,4.4
+P00154,Cello Home 524,Home & Kitchen,Cello,4350.0,2830.28,Assured,3.9
+P00155,HP Laptops 431,Laptops,HP,97620.0,83112.01,Assured,4.0
+P00156,Mamaearth Beauty 759,Beauty,Mamaearth,2130.0,1241.61,Marketplace,4.1
+P00157,Levis Fashion 317,Fashion,Levis,3140.0,1747.49,Marketplace,4.1
+P00158,Mamaearth Beauty 987,Beauty,Mamaearth,1050.0,607.99,Assured,3.9
+P00159,Tata Grocery 164,Grocery,Tata,260.0,228.23,Marketplace,4.2
+P00160,Aashirvaad Grocery 860,Grocery,Aashirvaad,250.0,220.44,Marketplace,4.4
+P00161,Dell Laptops 685,Laptops,Dell,139070.0,117680.91,Marketplace,3.9
+P00162,Lego Toys 237,Toys,Lego,360.0,220.05,Assured,4.2
+P00163,Noise Electronics 496,Electronics Accessories,Noise,320.0,222.08,Assured,4.0
+P00164,OnePlus Mobiles 652,Mobiles,OnePlus,7610.0,6762.51,Marketplace,3.5
+P00165,Milton Home 323,Home & Kitchen,Milton,310.0,200.62,Assured,3.9
+P00166,Biba Fashion 576,Fashion,Biba,1000.0,555.14,Assured,4.2
+P00167,Oxford Books 478,Books,Oxford,278.0,165.47,Marketplace,4.3
+P00168,Amul Grocery 640,Grocery,Amul,110.0,99.35,Assured,4.2
+P00169,HRX Fashion 935,Fashion,HRX,1850.0,1066.44,Assured,3.9
+P00170,Decathlon Sports 231,Sports & Fitness,Decathlon,1760.0,1125.27,Marketplace,4.1
+P00171,Roadster Fashion 857,Fashion,Roadster,1200.0,648.38,Assured,4.6
+P00172,Prestige Home 217,Home & Kitchen,Prestige,1340.0,831.95,Marketplace,4.1
+P00173,Roadster Fashion 181,Fashion,Roadster,1350.0,736.83,Marketplace,4.1
+P00174,Mattel Toys 332,Toys,Mattel,2790.0,1674.76,Marketplace,3.7
+P00175,Whirlpool Appliances 869,Appliances,Whirlpool,15290.0,12702.18,Assured,4.5
+P00176,OnePlus Mobiles 370,Mobiles,OnePlus,11380.0,9761.72,Assured,4.3
+P00177,Puma Fashion 263,Fashion,Puma,2070.0,1158.4,Assured,4.4
+P00178,Cosco Sports 744,Sports & Fitness,Cosco,1030.0,667.26,Assured,3.8
+P00179,Lego Toys 292,Toys,Lego,1040.0,648.97,Assured,4.3
+P00180,Britannia Grocery 211,Grocery,Britannia,390.0,334.22,Marketplace,4.1
+P00181,Mattel Toys 942,Toys,Mattel,1860.0,1127.89,Marketplace,3.8
+P00182,Barbie Toys 407,Toys,Barbie,2950.0,1710.33,Assured,4.0
+P00183,Milton Home 651,Home & Kitchen,Milton,530.0,327.76,Marketplace,4.0
+P00184,Biba Fashion 197,Fashion,Biba,440.0,235.71,Assured,4.1
+P00185,Amul Grocery 440,Grocery,Amul,170.0,147.88,Assured,3.8
+P00186,Mamaearth Beauty 122,Beauty,Mamaearth,190.0,110.6,Marketplace,4.4
+P00187,Roadster Fashion 553,Fashion,Roadster,3790.0,2091.13,Assured,4.2
+P00188,Vivo Mobiles 859,Mobiles,Vivo,51440.0,48127.03,Assured,4.1
+P00189,Nestle Grocery 377,Grocery,Nestle,940.0,862.71,Assured,4.6
+P00190,Roadster Fashion 183,Fashion,Roadster,2580.0,1441.17,Assured,4.0
+P00191,Mattel Toys 641,Toys,Mattel,1820.0,1130.97,Assured,4.2
+P00192,Biba Fashion 138,Fashion,Biba,1090.0,596.4,Assured,4.2
+P00193,HP Laptops 890,Laptops,HP,59460.0,51123.11,Marketplace,4.3
+P00194,Arihant Books 551,Books,Arihant,270.0,166.02,Assured,4.1
+P00195,Godrej Appliances 416,Appliances,Godrej,12000.0,10146.32,Assured,4.4
+P00196,Godrej Appliances 971,Appliances,Godrej,14650.0,12656.38,Marketplace,3.9
+P00197,Sleepwell Home 573,Home & Kitchen,Sleepwell,470.0,295.42,Marketplace,4.5
+P00198,Funskool Toys 935,Toys,Funskool,480.0,276.92,Assured,3.9
+P00199,Whirlpool Appliances 637,Appliances,Whirlpool,10060.0,8717.35,Assured,4.1
+P00200,Roadster Fashion 695,Fashion,Roadster,750.0,396.77,Marketplace,4.2
+P00201,Tata Grocery 390,Grocery,Tata,170.0,150.91,Marketplace,3.9
+P00202,Yonex Sports 193,Sports & Fitness,Yonex,610.0,416.32,Assured,4.5
+P00203,Wakefit Home 929,Home & Kitchen,Wakefit,1370.0,853.79,Assured,3.6
+P00204,Whirlpool Appliances 382,Appliances,Whirlpool,54310.0,44959.66,Assured,4.0
+P00205,Realme Mobiles 907,Mobiles,Realme,11490.0,10085.9,Marketplace,4.3
+P00206,boAt Electronics 687,Electronics Accessories,boAt,230.0,158.41,Marketplace,3.5
+P00207,Acer Laptops 772,Laptops,Acer,138370.0,126347.24,Assured,4.0
+P00208,Himalaya Beauty 582,Beauty,Himalaya,420.0,246.88,Assured,3.8
+P00209,Asus Laptops 446,Laptops,Asus,45190.0,38562.09,Assured,4.1
+P00210,Pigeon Home 410,Home & Kitchen,Pigeon,1020.0,665.25,Marketplace,4.1
+P00211,Tata Grocery 968,Grocery,Tata,510.0,449.79,Marketplace,4.2
+P00212,Wakefit Home 485,Home & Kitchen,Wakefit,360.0,238.64,Marketplace,4.5
+P00213,Whirlpool Appliances 605,Appliances,Whirlpool,10730.0,8676.61,Marketplace,4.1
+P00214,Amul Grocery 881,Grocery,Amul,740.0,659.6,Marketplace,4.1
+P00215,Britannia Grocery 881,Grocery,Britannia,1030.0,864.38,Assured,4.3
+P00216,Nestle Grocery 682,Grocery,Nestle,1090.0,951.55,Assured,3.7
+P00217,Dell Laptops 283,Laptops,Dell,93120.0,78615.19,Marketplace,4.1
+P00218,Dell Laptops 362,Laptops,Dell,41380.0,38133.42,Marketplace,3.7
+P00219,Hasbro Toys 368,Toys,Hasbro,540.0,309.08,Marketplace,3.9
+P00220,Biba Fashion 755,Fashion,Biba,400.0,229.88,Marketplace,4.3
+P00221,Biba Fashion 492,Fashion,Biba,1300.0,702.46,Assured,4.2
+P00222,Cello Home 907,Home & Kitchen,Cello,1970.0,1343.89,Assured,4.1
+P00223,Biotique Beauty 416,Beauty,Biotique,250.0,146.81,Assured,4.0
+P00224,Yonex Sports 926,Sports & Fitness,Yonex,1530.0,948.02,Assured,4.3
+P00225,HRX Fashion 336,Fashion,HRX,490.0,282.6,Assured,4.7
+P00226,Barbie Toys 547,Toys,Barbie,1040.0,629.02,Assured,4.4
+P00227,Vivo Mobiles 485,Mobiles,Vivo,10050.0,9216.64,Marketplace,4.8
+P00228,Cello Home 162,Home & Kitchen,Cello,1790.0,1125.14,Assured,4.5
+P00229,Lakme Beauty 750,Beauty,Lakme,340.0,195.15,Marketplace,3.9
+P00230,Dell Laptops 121,Laptops,Dell,34620.0,29113.81,Marketplace,3.3
+P00231,Godrej Appliances 483,Appliances,Godrej,25470.0,22027.07,Assured,4.1
+P00232,Puma Fashion 234,Fashion,Puma,4380.0,2488.67,Assured,4.5
+P00233,Nivia Sports 698,Sports & Fitness,Nivia,4410.0,2919.59,Assured,4.2
+P00234,Milton Home 568,Home & Kitchen,Milton,950.0,615.17,Assured,4.4
+P00235,Mattel Toys 428,Toys,Mattel,470.0,272.13,Marketplace,4.5
+P00236,Fortune Grocery 723,Grocery,Fortune,140.0,127.48,Assured,4.2
+P00237,Prestige Home 142,Home & Kitchen,Prestige,310.0,206.78,Marketplace,4.4
+P00238,Aashirvaad Grocery 164,Grocery,Aashirvaad,800.0,710.49,Marketplace,3.5
+P00239,Xiaomi Mobiles 635,Mobiles,Xiaomi,7200.0,6798.33,Assured,3.9
+P00240,Lenovo Laptops 599,Laptops,Lenovo,36620.0,32536.4,Marketplace,4.1
+P00241,HarperCollins Books 824,Books,HarperCollins,742.0,448.41,Assured,4.2
+P00242,Britannia Grocery 937,Grocery,Britannia,250.0,224.0,Marketplace,4.0
+P00243,Portronics Electronics 537,Electronics Accessories,Portronics,1240.0,833.91,Assured,4.0
+P00244,Sleepwell Home 937,Home & Kitchen,Sleepwell,370.0,231.45,Assured,4.1
+P00245,Lakme Beauty 909,Beauty,Lakme,200.0,122.71,Assured,3.9
+P00246,HarperCollins Books 780,Books,HarperCollins,465.0,297.76,Marketplace,3.6
+P00247,Himalaya Beauty 726,Beauty,Himalaya,370.0,232.14,Assured,4.3
+P00248,Levis Fashion 779,Fashion,Levis,1150.0,663.98,Assured,3.6
+P00249,Puma Fashion 532,Fashion,Puma,1480.0,819.83,Assured,4.0
+P00250,Levis Fashion 626,Fashion,Levis,1640.0,916.19,Marketplace,4.2
+P00251,Biotique Beauty 661,Beauty,Biotique,1390.0,837.13,Marketplace,3.6
+P00252,Oxford Books 574,Books,Oxford,245.0,157.57,Marketplace,3.8
+P00253,HRX Fashion 299,Fashion,HRX,1680.0,945.62,Marketplace,4.5
+P00254,HRX Fashion 404,Fashion,HRX,1670.0,913.56,Marketplace,3.5
+P00255,Noise Electronics 431,Electronics Accessories,Noise,1170.0,782.18,Assured,4.4
+P00256,Amul Grocery 948,Grocery,Amul,280.0,246.53,Assured,3.6
+P00257,Penguin Books 833,Books,Penguin,275.0,168.51,Marketplace,3.8
+P00258,Acer Laptops 647,Laptops,Acer,35860.0,33005.56,Assured,4.4
+P00259,Motorola Mobiles 894,Mobiles,Motorola,77780.0,70156.99,Assured,4.3
+P00260,Wakefit Home 548,Home & Kitchen,Wakefit,3960.0,2454.02,Marketplace,4.3
+P00261,Godrej Appliances 349,Appliances,Godrej,43390.0,34819.58,Marketplace,3.9
+P00262,Arihant Books 677,Books,Arihant,389.0,240.28,Assured,3.5
+P00263,Levis Fashion 309,Fashion,Levis,510.0,289.94,Assured,3.7
+P00264,Bosch Appliances 293,Appliances,Bosch,25480.0,20682.35,Assured,4.3
+P00265,Lego Toys 920,Toys,Lego,1180.0,683.29,Marketplace,4.3
+P00266,Samsung Appliances 667,Appliances,Samsung,43380.0,36877.0,Marketplace,4.3
+P00267,Roadster Fashion 961,Fashion,Roadster,420.0,232.98,Marketplace,4.1
+P00268,Godrej Appliances 558,Appliances,Godrej,9210.0,7741.96,Assured,4.5
+P00269,HP Laptops 574,Laptops,HP,44850.0,38975.75,Marketplace,3.9
+P00270,Motorola Mobiles 364,Mobiles,Motorola,16110.0,14561.79,Assured,4.1
+P00271,Xiaomi Mobiles 356,Mobiles,Xiaomi,83390.0,76497.77,Assured,4.2
+P00272,Bosch Appliances 127,Appliances,Bosch,21690.0,18433.99,Marketplace,4.6
+P00273,OnePlus Mobiles 642,Mobiles,OnePlus,26930.0,23985.09,Assured,4.6
+P00274,Prestige Home 995,Home & Kitchen,Prestige,2360.0,1459.72,Assured,4.1
+P00275,Nivea Beauty 590,Beauty,Nivea,1540.0,935.08,Marketplace,4.6
+P00276,Roadster Fashion 932,Fashion,Roadster,540.0,282.92,Marketplace,4.7
+P00277,Puma Fashion 103,Fashion,Puma,640.0,350.07,Assured,3.9
+P00278,Prestige Home 461,Home & Kitchen,Prestige,1240.0,827.57,Marketplace,4.0
+P00279,Mattel Toys 365,Toys,Mattel,340.0,212.43,Assured,4.3
+P00280,Scholastic Books 954,Books,Scholastic,812.0,498.97,Marketplace,4.3
+P00281,Realme Mobiles 128,Mobiles,Realme,49940.0,43346.63,Marketplace,3.6
+P00282,LG Appliances 415,Appliances,LG,31840.0,27779.71,Marketplace,3.5
+P00283,boAt Electronics 343,Electronics Accessories,boAt,2770.0,1937.89,Assured,4.5
+P00284,Biba Fashion 911,Fashion,Biba,2930.0,1672.33,Marketplace,4.6
+P00285,Sleepwell Home 613,Home & Kitchen,Sleepwell,5650.0,3644.04,Assured,3.6
+P00286,Levis Fashion 316,Fashion,Levis,800.0,421.63,Assured,4.2
+P00287,OnePlus Mobiles 568,Mobiles,OnePlus,36210.0,32356.29,Assured,4.5
+P00288,Puma Fashion 278,Fashion,Puma,2930.0,1646.41,Marketplace,4.2
+P00289,Pigeon Home 361,Home & Kitchen,Pigeon,4550.0,3070.36,Marketplace,4.2
+P00290,Dell Laptops 860,Laptops,Dell,87430.0,80732.22,Assured,4.3
+P00291,Penguin Books 507,Books,Penguin,569.0,367.84,Assured,3.5
+P00292,Vivo Mobiles 302,Mobiles,Vivo,9230.0,8590.02,Assured,4.2
+P00293,Funskool Toys 541,Toys,Funskool,460.0,284.44,Marketplace,4.3
+P00294,Xiaomi Mobiles 520,Mobiles,Xiaomi,31340.0,28528.34,Assured,4.0
+P00295,HarperCollins Books 623,Books,HarperCollins,349.0,216.4,Assured,3.9
+P00296,Funskool Toys 406,Toys,Funskool,1590.0,982.68,Marketplace,4.2
+P00297,Yonex Sports 356,Sports & Fitness,Yonex,1940.0,1291.16,Assured,3.9
+P00298,Fortune Grocery 559,Grocery,Fortune,200.0,183.9,Assured,4.1
+P00299,Fortune Grocery 886,Grocery,Fortune,1540.0,1309.92,Marketplace,4.0
+P00300,Himalaya Beauty 882,Beauty,Himalaya,450.0,275.1,Assured,4.1
+P00301,Britannia Grocery 737,Grocery,Britannia,950.0,833.36,Marketplace,4.6
+P00302,Asus Laptops 677,Laptops,Asus,39470.0,36373.01,Assured,3.5
+P00303,Sleepwell Home 303,Home & Kitchen,Sleepwell,4510.0,2932.43,Marketplace,4.2
+P00304,Cello Home 560,Home & Kitchen,Cello,1730.0,1159.07,Assured,3.9
+P00305,HarperCollins Books 765,Books,HarperCollins,203.0,129.44,Assured,4.0
+P00306,Sleepwell Home 102,Home & Kitchen,Sleepwell,5000.0,3184.6,Assured,4.5
+P00307,Nike Fashion 513,Fashion,Nike,770.0,410.01,Assured,4.6
+P00308,Himalaya Beauty 183,Beauty,Himalaya,760.0,471.71,Assured,4.0
+P00309,Puma Fashion 803,Fashion,Puma,960.0,512.49,Assured,3.6
+P00310,Acer Laptops 302,Laptops,Acer,31630.0,28457.92,Marketplace,3.8
+P00311,Milton Home 816,Home & Kitchen,Milton,4830.0,3255.56,Marketplace,4.2
+P00312,Puma Fashion 686,Fashion,Puma,1430.0,819.46,Assured,3.8
+P00313,JBL Electronics 949,Electronics Accessories,JBL,260.0,181.0,Marketplace,4.2
+P00314,HRX Fashion 245,Fashion,HRX,4400.0,2492.48,Marketplace,4.3
+P00315,Nike Fashion 418,Fashion,Nike,2480.0,1384.27,Assured,4.1
+P00316,Puma Fashion 205,Fashion,Puma,550.0,290.5,Marketplace,4.5
+P00317,Levis Fashion 722,Fashion,Levis,680.0,380.99,Assured,3.8
+P00318,Mamaearth Beauty 851,Beauty,Mamaearth,440.0,252.78,Marketplace,3.7
+P00319,Roadster Fashion 621,Fashion,Roadster,3100.0,1726.61,Assured,3.8
+P00320,Cosco Sports 997,Sports & Fitness,Cosco,3220.0,2091.42,Assured,4.3
+P00321,Lego Toys 320,Toys,Lego,340.0,200.51,Marketplace,4.4
+P00322,Prestige Home 140,Home & Kitchen,Prestige,510.0,343.87,Marketplace,4.2
+P00323,Puma Fashion 602,Fashion,Puma,430.0,231.36,Assured,3.7
+P00324,Wakefit Home 358,Home & Kitchen,Wakefit,5500.0,3639.04,Assured,3.9
+P00325,Oxford Books 764,Books,Oxford,869.0,536.91,Assured,3.9
+P00326,Lakme Beauty 299,Beauty,Lakme,1190.0,710.52,Assured,4.4
+P00327,Fortune Grocery 678,Grocery,Fortune,670.0,598.43,Assured,4.9
+P00328,Pigeon Home 807,Home & Kitchen,Pigeon,350.0,225.98,Assured,4.6
+P00329,Nivea Beauty 628,Beauty,Nivea,270.0,157.67,Assured,4.1
+P00330,Nike Fashion 441,Fashion,Nike,990.0,540.76,Marketplace,4.5
+P00331,Tata Grocery 944,Grocery,Tata,820.0,733.21,Assured,4.3
+P00332,Anker Electronics 572,Electronics Accessories,Anker,820.0,563.54,Assured,4.0
+P00333,Amul Grocery 468,Grocery,Amul,140.0,123.9,Marketplace,4.1
+P00334,Oxford Books 511,Books,Oxford,457.0,269.75,Assured,3.9
+P00335,HP Laptops 346,Laptops,HP,42530.0,37057.03,Assured,4.1
+P00336,Maybelline Beauty 184,Beauty,Maybelline,240.0,144.72,Assured,4.4
+P00337,Xiaomi Mobiles 121,Mobiles,Xiaomi,12480.0,11727.74,Assured,4.1
+P00338,Amul Grocery 982,Grocery,Amul,150.0,133.55,Marketplace,4.8
+P00339,Xiaomi Mobiles 976,Mobiles,Xiaomi,8820.0,7703.05,Marketplace,4.2
+P00340,Barbie Toys 937,Toys,Barbie,650.0,376.32,Marketplace,4.1
+P00341,Dell Laptops 970,Laptops,Dell,85230.0,71684.3,Marketplace,3.9
+P00342,Adidas Sports 234,Sports & Fitness,Adidas,2690.0,1754.34,Marketplace,4.4
+P00343,Nestle Grocery 319,Grocery,Nestle,150.0,136.68,Assured,3.9
+P00344,Cello Home 106,Home & Kitchen,Cello,6990.0,4389.5,Marketplace,3.8
+P00345,Tata Grocery 714,Grocery,Tata,510.0,452.76,Assured,3.8
+P00346,Britannia Grocery 286,Grocery,Britannia,520.0,460.49,Marketplace,4.3
+P00347,Yonex Sports 389,Sports & Fitness,Yonex,1440.0,897.24,Assured,4.1
+P00348,Biba Fashion 300,Fashion,Biba,4360.0,2473.51,Assured,4.2
+P00349,Prestige Home 391,Home & Kitchen,Prestige,1120.0,749.72,Marketplace,4.1
+P00350,Samsung Mobiles 798,Mobiles,Samsung,10450.0,9073.89,Marketplace,4.0
+P00351,Biotique Beauty 241,Beauty,Biotique,390.0,222.58,Assured,3.9
+P00352,Voltas Appliances 971,Appliances,Voltas,40840.0,32935.99,Assured,4.1
+P00353,Milton Home 388,Home & Kitchen,Milton,1660.0,1055.64,Assured,4.4
+P00354,Pigeon Home 685,Home & Kitchen,Pigeon,1310.0,819.84,Marketplace,4.1
+P00355,Pigeon Home 687,Home & Kitchen,Pigeon,3960.0,2628.05,Marketplace,4.1
+P00356,Wakefit Home 350,Home & Kitchen,Wakefit,2070.0,1291.61,Marketplace,4.6
+P00357,Fortune Grocery 154,Grocery,Fortune,200.0,176.86,Assured,3.7
+P00358,Amul Grocery 838,Grocery,Amul,900.0,776.92,Assured,4.2
+P00359,Wakefit Home 688,Home & Kitchen,Wakefit,1330.0,839.44,Marketplace,4.5
+P00360,Cello Home 634,Home & Kitchen,Cello,4090.0,2590.67,Marketplace,4.5
+P00361,Hasbro Toys 630,Toys,Hasbro,1710.0,986.06,Assured,4.1
+P00362,Dell Laptops 899,Laptops,Dell,48070.0,43410.21,Marketplace,4.2
+P00363,Apple Laptops 952,Laptops,Apple,93900.0,79256.98,Assured,4.0
+P00364,OnePlus Mobiles 526,Mobiles,OnePlus,48520.0,43976.87,Assured,4.1
+P00365,Himalaya Beauty 872,Beauty,Himalaya,320.0,193.97,Assured,4.2
+P00366,Puma Fashion 328,Fashion,Puma,470.0,251.52,Marketplace,3.9
+P00367,Amul Grocery 104,Grocery,Amul,550.0,468.72,Marketplace,4.1
+P00368,Biotique Beauty 787,Beauty,Biotique,2020.0,1205.62,Marketplace,3.7
+P00369,HRX Fashion 677,Fashion,HRX,1220.0,699.09,Assured,4.1
+P00370,Mattel Toys 682,Toys,Mattel,320.0,197.43,Marketplace,4.0
+P00371,Amul Grocery 293,Grocery,Amul,150.0,128.96,Assured,4.3
+P00372,Roadster Fashion 893,Fashion,Roadster,720.0,391.01,Assured,3.9
+P00373,Roadster Fashion 757,Fashion,Roadster,620.0,339.24,Assured,4.5
+P00374,Nike Fashion 750,Fashion,Nike,2880.0,1642.46,Marketplace,4.0
+P00375,LG Appliances 647,Appliances,LG,28680.0,23530.6,Assured,4.8
+P00376,Samsung Appliances 802,Appliances,Samsung,31440.0,27098.77,Assured,3.9
+P00377,Hasbro Toys 591,Toys,Hasbro,770.0,481.36,Marketplace,3.9
+P00378,Puma Fashion 967,Fashion,Puma,3130.0,1715.56,Assured,3.9
+P00379,Nike Fashion 331,Fashion,Nike,1030.0,547.8,Marketplace,3.7
+P00380,Nestle Grocery 783,Grocery,Nestle,1430.0,1276.14,Marketplace,3.7
+P00381,Milton Home 267,Home & Kitchen,Milton,2300.0,1560.44,Assured,4.1
+P00382,Barbie Toys 690,Toys,Barbie,1460.0,871.73,Marketplace,3.8
+P00383,Nestle Grocery 343,Grocery,Nestle,650.0,559.01,Assured,4.3
+P00384,Wakefit Home 508,Home & Kitchen,Wakefit,850.0,535.4,Assured,3.8
+P00385,Nike Fashion 719,Fashion,Nike,550.0,315.93,Assured,4.0
+P00386,Yonex Sports 138,Sports & Fitness,Yonex,520.0,345.48,Marketplace,4.8
+P00387,Aashirvaad Grocery 798,Grocery,Aashirvaad,120.0,104.3,Assured,4.2
+P00388,Nivia Sports 157,Sports & Fitness,Nivia,5940.0,3987.26,Marketplace,3.6
+P00389,HP Laptops 871,Laptops,HP,94320.0,80377.02,Assured,3.6
+P00390,Oxford Books 211,Books,Oxford,283.0,169.95,Assured,4.2
+P00391,Biotique Beauty 923,Beauty,Biotique,180.0,105.97,Marketplace,3.8
+P00392,HP Laptops 742,Laptops,HP,37740.0,33545.99,Marketplace,4.4
+P00393,Cello Home 168,Home & Kitchen,Cello,540.0,354.66,Marketplace,3.9
+P00394,Mamaearth Beauty 985,Beauty,Mamaearth,1110.0,677.86,Assured,4.3
+P00395,OnePlus Mobiles 103,Mobiles,OnePlus,18120.0,16319.8,Marketplace,4.1
+P00396,Levis Fashion 256,Fashion,Levis,1310.0,688.63,Assured,4.6
+P00397,Penguin Books 228,Books,Penguin,705.0,427.85,Assured,4.1
+P00398,Puma Fashion 729,Fashion,Puma,1530.0,853.94,Assured,4.3
+P00399,Nike Fashion 238,Fashion,Nike,500.0,286.87,Marketplace,4.2
+P00400,Levis Fashion 683,Fashion,Levis,3680.0,2110.68,Assured,4.1
+P00401,HRX Fashion 198,Fashion,HRX,470.0,248.04,Assured,4.4
+P00402,Mattel Toys 630,Toys,Mattel,1780.0,1030.24,Marketplace,3.9
+P00403,Nestle Grocery 352,Grocery,Nestle,100.0,86.51,Assured,4.4
+P00404,Dell Laptops 725,Laptops,Dell,101930.0,86460.33,Marketplace,3.8
+P00405,Cosco Sports 682,Sports & Fitness,Cosco,680.0,441.27,Assured,4.9
+P00406,Lego Toys 189,Toys,Lego,910.0,527.67,Assured,4.3
+P00407,HRX Fashion 419,Fashion,HRX,800.0,432.17,Marketplace,3.8
+P00408,Arihant Books 369,Books,Arihant,779.0,464.38,Assured,4.3
+P00409,Asus Laptops 890,Laptops,Asus,109050.0,95700.8,Marketplace,4.4
+P00410,Adidas Sports 539,Sports & Fitness,Adidas,830.0,514.54,Marketplace,3.7
+P00411,Maybelline Beauty 608,Beauty,Maybelline,360.0,206.13,Assured,3.8
+P00412,Lakme Beauty 528,Beauty,Lakme,180.0,106.26,Assured,3.9
+P00413,Xiaomi Mobiles 955,Mobiles,Xiaomi,51260.0,44474.01,Marketplace,3.7
+P00414,Hasbro Toys 738,Toys,Hasbro,1230.0,753.06,Marketplace,4.4
+P00415,Samsung Mobiles 391,Mobiles,Samsung,28130.0,24317.63,Marketplace,4.2
+P00416,Roadster Fashion 184,Fashion,Roadster,780.0,415.73,Marketplace,4.1
+P00417,LG Appliances 181,Appliances,LG,20010.0,16696.41,Assured,3.7
+P00418,Britannia Grocery 541,Grocery,Britannia,500.0,439.43,Marketplace,4.1
+P00419,Bosch Appliances 530,Appliances,Bosch,23110.0,18493.18,Marketplace,3.8
+P00420,Mattel Toys 998,Toys,Mattel,470.0,288.17,Assured,3.7
+P00421,Nivea Beauty 639,Beauty,Nivea,160.0,91.89,Marketplace,4.0
+P00422,Vivo Mobiles 654,Mobiles,Vivo,29080.0,25627.35,Assured,3.8
+P00423,Samsung Mobiles 176,Mobiles,Samsung,9130.0,8061.88,Assured,4.2
+P00424,Samsung Mobiles 820,Mobiles,Samsung,44320.0,40304.06,Marketplace,4.2
+P00425,Himalaya Beauty 555,Beauty,Himalaya,1630.0,950.91,Marketplace,4.0
+P00426,Aashirvaad Grocery 318,Grocery,Aashirvaad,110.0,95.51,Assured,4.0
+P00427,Anker Electronics 362,Electronics Accessories,Anker,4030.0,2826.86,Assured,4.0
+P00428,Penguin Books 193,Books,Penguin,199.0,123.42,Marketplace,3.9
+P00429,Motorola Mobiles 795,Mobiles,Motorola,32580.0,29007.4,Assured,3.5
+P00430,Aashirvaad Grocery 395,Grocery,Aashirvaad,110.0,96.76,Assured,4.0
+P00431,Barbie Toys 709,Toys,Barbie,830.0,506.31,Assured,3.9
+P00432,Amul Grocery 636,Grocery,Amul,510.0,440.48,Assured,3.8
+P00433,Fortune Grocery 221,Grocery,Fortune,600.0,524.89,Marketplace,3.9
+P00434,Penguin Books 246,Books,Penguin,694.0,430.59,Assured,4.1
+P00435,Realme Mobiles 508,Mobiles,Realme,76190.0,71685.96,Assured,4.9
+P00436,JBL Electronics 600,Electronics Accessories,JBL,4610.0,3131.05,Marketplace,4.0
+P00437,Asus Laptops 494,Laptops,Asus,137190.0,117932.53,Assured,4.4
+P00438,Cello Home 125,Home & Kitchen,Cello,6450.0,4293.31,Marketplace,4.3
+P00439,Aashirvaad Grocery 722,Grocery,Aashirvaad,140.0,125.02,Assured,4.4
+P00440,Nivea Beauty 915,Beauty,Nivea,650.0,404.74,Marketplace,4.0
+P00441,Oxford Books 554,Books,Oxford,235.0,139.88,Marketplace,4.1
+P00442,Voltas Appliances 148,Appliances,Voltas,23740.0,19541.8,Assured,3.6
+P00443,Nestle Grocery 151,Grocery,Nestle,890.0,810.63,Marketplace,3.7
+P00444,LG Appliances 461,Appliances,LG,31420.0,25480.11,Assured,3.8
+P00445,Levis Fashion 930,Fashion,Levis,3350.0,1901.76,Assured,4.0
+P00446,Fortune Grocery 322,Grocery,Fortune,1530.0,1289.31,Assured,3.8
+P00447,Decathlon Sports 106,Sports & Fitness,Decathlon,960.0,630.01,Assured,3.8
+P00448,Himalaya Beauty 427,Beauty,Himalaya,170.0,105.87,Assured,4.2
+P00449,Apple Mobiles 394,Mobiles,Apple,50350.0,46772.51,Marketplace,3.9
+P00450,Lakme Beauty 131,Beauty,Lakme,150.0,94.42,Marketplace,3.8
+P00451,Samsung Mobiles 118,Mobiles,Samsung,73630.0,68200.98,Assured,3.9
+P00452,Lego Toys 359,Toys,Lego,250.0,153.77,Marketplace,3.6
+P00453,Fortune Grocery 379,Grocery,Fortune,230.0,211.85,Assured,3.8
+P00454,Whirlpool Appliances 468,Appliances,Whirlpool,25660.0,21667.93,Assured,3.5
+P00455,Apple Mobiles 937,Mobiles,Apple,74940.0,67879.65,Assured,4.4
+P00456,Bosch Appliances 606,Appliances,Bosch,44150.0,37827.65,Marketplace,4.0
+P00457,Yonex Sports 287,Sports & Fitness,Yonex,3020.0,1962.68,Assured,4.1
+P00458,Nike Fashion 648,Fashion,Nike,3180.0,1684.14,Marketplace,3.8
+P00459,Fortune Grocery 452,Grocery,Fortune,820.0,747.16,Assured,4.5
+P00460,Mamaearth Beauty 679,Beauty,Mamaearth,150.0,91.96,Assured,4.9
+P00461,Cello Home 712,Home & Kitchen,Cello,3850.0,2446.96,Marketplace,4.3
+P00462,Samsung Appliances 973,Appliances,Samsung,58640.0,51321.05,Marketplace,3.7
+P00463,Nivia Sports 588,Sports & Fitness,Nivia,640.0,427.04,Assured,4.7
+P00464,Nike Fashion 442,Fashion,Nike,520.0,286.17,Assured,4.4
+P00465,Milton Home 853,Home & Kitchen,Milton,490.0,318.0,Assured,4.1
+P00466,Aashirvaad Grocery 247,Grocery,Aashirvaad,370.0,332.28,Marketplace,4.5
+P00467,Biotique Beauty 238,Beauty,Biotique,790.0,464.69,Marketplace,4.3
+P00468,Decathlon Sports 302,Sports & Fitness,Decathlon,4410.0,2817.78,Assured,4.2
+P00469,LG Appliances 202,Appliances,LG,59730.0,51939.12,Marketplace,4.4
+P00470,Prestige Home 566,Home & Kitchen,Prestige,890.0,566.49,Marketplace,3.7
+P00471,Nike Fashion 659,Fashion,Nike,3760.0,2070.96,Marketplace,4.1
+P00472,Sleepwell Home 265,Home & Kitchen,Sleepwell,5180.0,3526.38,Marketplace,4.4
+P00473,Asus Laptops 852,Laptops,Asus,65260.0,56319.13,Marketplace,4.0
+P00474,Acer Laptops 500,Laptops,Acer,49170.0,42500.78,Assured,4.5
+P00475,Levis Fashion 770,Fashion,Levis,740.0,389.65,Marketplace,4.3
+P00476,Nike Fashion 749,Fashion,Nike,1060.0,607.2,Marketplace,4.1
+P00477,Levis Fashion 800,Fashion,Levis,1290.0,694.78,Marketplace,3.8
+P00478,Nivea Beauty 178,Beauty,Nivea,1450.0,830.36,Marketplace,4.2
+P00479,Biotique Beauty 357,Beauty,Biotique,510.0,294.68,Assured,4.3
+P00480,Levis Fashion 103,Fashion,Levis,3850.0,2041.95,Assured,3.8
+P00481,Puma Fashion 689,Fashion,Puma,690.0,372.95,Marketplace,4.1
+P00482,JBL Electronics 724,Electronics Accessories,JBL,1550.0,1070.41,Assured,4.2
+P00483,Cello Home 659,Home & Kitchen,Cello,6260.0,3978.47,Assured,3.9
+P00484,Puma Fashion 604,Fashion,Puma,2020.0,1153.79,Marketplace,4.0
+P00485,Apple Mobiles 195,Mobiles,Apple,11480.0,10812.58,Assured,4.3
+P00486,HRX Fashion 155,Fashion,HRX,1660.0,942.41,Assured,4.4
+P00487,Cello Home 348,Home & Kitchen,Cello,1610.0,997.34,Marketplace,3.9
+P00488,Anker Electronics 779,Electronics Accessories,Anker,240.0,165.48,Assured,4.5
+P00489,Wakefit Home 367,Home & Kitchen,Wakefit,4490.0,2833.92,Assured,4.4
+P00490,Sleepwell Home 174,Home & Kitchen,Sleepwell,820.0,514.8,Assured,4.1
+P00491,Tata Grocery 291,Grocery,Tata,120.0,109.91,Marketplace,4.3
+P00492,Maybelline Beauty 477,Beauty,Maybelline,300.0,174.8,Assured,4.1
+P00493,Himalaya Beauty 423,Beauty,Himalaya,760.0,461.05,Assured,3.9
+P00494,Levis Fashion 889,Fashion,Levis,2710.0,1463.97,Assured,4.2
+P00495,Aashirvaad Grocery 763,Grocery,Aashirvaad,120.0,102.13,Assured,3.6
+P00496,Wakefit Home 185,Home & Kitchen,Wakefit,540.0,345.67,Marketplace,4.5
+P00497,Levis Fashion 134,Fashion,Levis,1010.0,561.07,Assured,4.3
+P00498,Himalaya Beauty 480,Beauty,Himalaya,1240.0,729.08,Assured,4.0
+P00499,Levis Fashion 894,Fashion,Levis,1130.0,605.59,Assured,4.5
+P00500,Prestige Home 237,Home & Kitchen,Prestige,360.0,230.05,Marketplace,3.9
+P00501,Nestle Grocery 879,Grocery,Nestle,770.0,695.11,Marketplace,4.1
+P00502,Mattel Toys 848,Toys,Mattel,2080.0,1276.74,Marketplace,4.5
+P00503,Funskool Toys 673,Toys,Funskool,810.0,486.73,Marketplace,4.0
+P00504,Wakefit Home 818,Home & Kitchen,Wakefit,3970.0,2699.69,Assured,4.6
+P00505,Cello Home 941,Home & Kitchen,Cello,3260.0,2205.22,Assured,4.5
+P00506,Nestle Grocery 976,Grocery,Nestle,160.0,137.35,Marketplace,4.2
+P00507,Nike Fashion 289,Fashion,Nike,1160.0,618.16,Marketplace,4.0
+P00508,Penguin Books 744,Books,Penguin,176.0,106.39,Marketplace,4.2
+P00509,Sleepwell Home 176,Home & Kitchen,Sleepwell,560.0,364.42,Assured,4.1
+P00510,Lenovo Laptops 409,Laptops,Lenovo,63370.0,54436.45,Assured,4.3
+P00511,Apple Mobiles 988,Mobiles,Apple,10770.0,9525.23,Assured,3.8
+P00512,Scholastic Books 810,Books,Scholastic,167.0,103.67,Assured,4.3
+P00513,OnePlus Mobiles 944,Mobiles,OnePlus,36260.0,34139.28,Marketplace,3.7
+P00514,Puma Fashion 541,Fashion,Puma,2720.0,1526.59,Assured,4.1
+P00515,Nike Fashion 176,Fashion,Nike,4100.0,2330.79,Marketplace,3.9
+P00516,Godrej Appliances 934,Appliances,Godrej,24360.0,21404.13,Assured,3.8
+P00517,Roadster Fashion 299,Fashion,Roadster,2170.0,1172.59,Assured,4.0
+P00518,Aashirvaad Grocery 687,Grocery,Aashirvaad,480.0,428.69,Marketplace,4.3
+P00519,Samsung Mobiles 114,Mobiles,Samsung,14280.0,12474.96,Assured,4.3
+P00520,Penguin Books 241,Books,Penguin,156.0,98.33,Marketplace,4.3
+P00521,Oxford Books 610,Books,Oxford,627.0,374.65,Assured,4.2
+P00522,HRX Fashion 450,Fashion,HRX,1130.0,617.01,Assured,4.3
+P00523,Voltas Appliances 790,Appliances,Voltas,44370.0,37746.94,Assured,4.0
+P00524,Nivea Beauty 589,Beauty,Nivea,1150.0,674.18,Assured,3.9
+P00525,Asus Laptops 527,Laptops,Asus,81950.0,72988.04,Assured,3.6
+P00526,Roadster Fashion 495,Fashion,Roadster,810.0,453.77,Assured,3.9
+P00527,Cosco Sports 713,Sports & Fitness,Cosco,860.0,566.98,Marketplace,4.0
+P00528,Yonex Sports 734,Sports & Fitness,Yonex,2910.0,1841.62,Assured,4.3
+P00529,Amul Grocery 429,Grocery,Amul,220.0,191.49,Marketplace,4.4
+P00530,Roadster Fashion 493,Fashion,Roadster,2800.0,1571.76,Assured,3.7
+P00531,Himalaya Beauty 707,Beauty,Himalaya,160.0,94.5,Marketplace,3.8
+P00532,Aashirvaad Grocery 331,Grocery,Aashirvaad,480.0,427.47,Assured,3.5
+P00533,Roadster Fashion 200,Fashion,Roadster,650.0,343.91,Marketplace,4.0
+P00534,Lakme Beauty 956,Beauty,Lakme,150.0,85.68,Assured,4.6
+P00535,Realme Mobiles 740,Mobiles,Realme,76030.0,68178.1,Marketplace,4.3
+P00536,boAt Electronics 863,Electronics Accessories,boAt,5740.0,4190.34,Assured,4.0
+P00537,Milton Home 563,Home & Kitchen,Milton,2420.0,1576.64,Marketplace,3.3
+P00538,LG Appliances 459,Appliances,LG,16240.0,13141.63,Assured,4.2
+P00539,Godrej Appliances 733,Appliances,Godrej,41860.0,35269.1,Assured,4.0
+P00540,Scholastic Books 892,Books,Scholastic,644.0,401.16,Marketplace,4.0
+P00541,Adidas Sports 878,Sports & Fitness,Adidas,1450.0,931.79,Assured,4.0
+P00542,Sleepwell Home 589,Home & Kitchen,Sleepwell,1540.0,1017.06,Assured,3.8
+P00543,Penguin Books 411,Books,Penguin,709.0,458.17,Assured,4.5
+P00544,Yonex Sports 844,Sports & Fitness,Yonex,1710.0,1071.36,Marketplace,4.0
+P00545,Samsung Appliances 558,Appliances,Samsung,27360.0,21916.07,Assured,4.1
+P00546,HRX Fashion 683,Fashion,HRX,920.0,505.88,Assured,3.9
+P00547,Levis Fashion 271,Fashion,Levis,630.0,350.25,Assured,4.1
+P00548,Vivo Mobiles 181,Mobiles,Vivo,12100.0,11299.19,Assured,4.2
+P00549,Britannia Grocery 948,Grocery,Britannia,1430.0,1285.45,Assured,3.6
+P00550,Roadster Fashion 951,Fashion,Roadster,4380.0,2314.09,Assured,4.3
+P00551,Prestige Home 724,Home & Kitchen,Prestige,450.0,285.89,Assured,3.7
+P00552,Voltas Appliances 242,Appliances,Voltas,23150.0,19313.94,Assured,3.7
+P00553,Bosch Appliances 569,Appliances,Bosch,11850.0,9652.37,Assured,4.5
+P00554,Hasbro Toys 225,Toys,Hasbro,290.0,173.89,Marketplace,4.0
+P00555,Samsung Mobiles 622,Mobiles,Samsung,22110.0,19370.14,Assured,3.8
+P00556,boAt Electronics 519,Electronics Accessories,boAt,420.0,308.42,Marketplace,3.9
+P00557,Levis Fashion 172,Fashion,Levis,1110.0,599.73,Assured,4.0
+P00558,Sleepwell Home 507,Home & Kitchen,Sleepwell,400.0,255.83,Assured,3.8
+P00559,Sleepwell Home 865,Home & Kitchen,Sleepwell,920.0,582.51,Assured,3.7
+P00560,Wakefit Home 237,Home & Kitchen,Wakefit,1430.0,898.04,Marketplace,4.2
+P00561,Apple Mobiles 935,Mobiles,Apple,10970.0,9421.81,Assured,4.3
+P00562,Levis Fashion 507,Fashion,Levis,730.0,384.95,Marketplace,3.7
+P00563,Scholastic Books 383,Books,Scholastic,212.0,136.73,Marketplace,4.4
+P00564,Biotique Beauty 695,Beauty,Biotique,940.0,562.87,Marketplace,4.1
+P00565,Biotique Beauty 675,Beauty,Biotique,410.0,247.14,Assured,4.2
+P00566,Biotique Beauty 861,Beauty,Biotique,360.0,213.38,Marketplace,3.5
+P00567,Nestle Grocery 221,Grocery,Nestle,810.0,743.07,Assured,4.1
+P00568,Xiaomi Mobiles 338,Mobiles,Xiaomi,13140.0,11668.39,Marketplace,3.9
+P00569,HRX Fashion 591,Fashion,HRX,2020.0,1105.29,Marketplace,4.5
+P00570,Pigeon Home 957,Home & Kitchen,Pigeon,760.0,488.82,Marketplace,3.8
+P00571,Levis Fashion 245,Fashion,Levis,2200.0,1220.42,Assured,4.2
+P00572,Arihant Books 724,Books,Arihant,248.0,160.07,Assured,4.2
+P00573,Cello Home 477,Home & Kitchen,Cello,2300.0,1446.39,Assured,4.0
+P00574,Fortune Grocery 616,Grocery,Fortune,600.0,509.85,Assured,3.8
+P00575,HarperCollins Books 755,Books,HarperCollins,245.0,149.01,Assured,3.8
+P00576,Prestige Home 654,Home & Kitchen,Prestige,1640.0,1020.51,Assured,4.4
+P00577,Barbie Toys 851,Toys,Barbie,1670.0,970.58,Assured,4.4
+P00578,Prestige Home 658,Home & Kitchen,Prestige,1930.0,1277.93,Marketplace,4.0
+P00579,Scholastic Books 603,Books,Scholastic,488.0,296.69,Marketplace,4.2
+P00580,Roadster Fashion 754,Fashion,Roadster,2240.0,1283.17,Assured,4.6
+P00581,Sleepwell Home 792,Home & Kitchen,Sleepwell,4070.0,2645.58,Marketplace,4.2
+P00582,Milton Home 877,Home & Kitchen,Milton,1920.0,1225.28,Assured,3.9
+P00583,Asus Laptops 897,Laptops,Asus,108400.0,94297.35,Marketplace,4.0
+P00584,Levis Fashion 530,Fashion,Levis,1400.0,792.98,Marketplace,4.8
+P00585,Funskool Toys 484,Toys,Funskool,1190.0,714.74,Assured,4.1
+P00586,Lakme Beauty 869,Beauty,Lakme,620.0,379.78,Marketplace,4.1
+P00587,Godrej Appliances 130,Appliances,Godrej,24550.0,20380.72,Assured,4.1
+P00588,Roadster Fashion 720,Fashion,Roadster,430.0,234.96,Assured,4.4
+P00589,Godrej Appliances 622,Appliances,Godrej,22120.0,17663.51,Marketplace,4.4
+P00590,Apple Mobiles 286,Mobiles,Apple,22690.0,20469.57,Assured,3.9
+P00591,Funskool Toys 674,Toys,Funskool,670.0,391.9,Assured,4.1
+P00592,Nike Fashion 513,Fashion,Nike,1470.0,845.85,Marketplace,3.3
+P00593,Levis Fashion 809,Fashion,Levis,820.0,453.51,Marketplace,4.4
+P00594,Wakefit Home 908,Home & Kitchen,Wakefit,2350.0,1561.98,Assured,3.9
+P00595,Realme Mobiles 925,Mobiles,Realme,24750.0,22958.47,Assured,4.1
+P00596,Biba Fashion 543,Fashion,Biba,470.0,247.66,Marketplace,4.3
+P00597,Amul Grocery 351,Grocery,Amul,1020.0,899.32,Assured,4.2
+P00598,Himalaya Beauty 192,Beauty,Himalaya,250.0,145.58,Marketplace,3.4
+P00599,Nivia Sports 770,Sports & Fitness,Nivia,2110.0,1405.94,Assured,4.3
+P00600,Biotique Beauty 282,Beauty,Biotique,530.0,324.34,Assured,4.4
+P00601,Cello Home 610,Home & Kitchen,Cello,430.0,270.71,Marketplace,4.3
+P00602,Tata Grocery 715,Grocery,Tata,1500.0,1277.99,Assured,4.4
+P00603,Mattel Toys 296,Toys,Mattel,370.0,230.28,Marketplace,3.9
+P00604,Fortune Grocery 329,Grocery,Fortune,470.0,433.3,Assured,4.5
+P00605,Yonex Sports 160,Sports & Fitness,Yonex,3240.0,2036.9,Assured,4.9
+P00606,Britannia Grocery 803,Grocery,Britannia,620.0,563.5,Assured,4.1
+P00607,Scholastic Books 336,Books,Scholastic,543.0,348.59,Assured,4.5
+P00608,Dell Laptops 405,Laptops,Dell,108750.0,92348.9,Assured,4.2
+P00609,Nestle Grocery 163,Grocery,Nestle,1040.0,872.23,Assured,3.7
+P00610,Nike Fashion 962,Fashion,Nike,790.0,451.34,Assured,3.8
+P00611,Wakefit Home 560,Home & Kitchen,Wakefit,2600.0,1676.97,Marketplace,4.3
+P00612,Mamaearth Beauty 997,Beauty,Mamaearth,1260.0,754.38,Marketplace,3.8
+P00613,Adidas Sports 137,Sports & Fitness,Adidas,710.0,457.1,Marketplace,3.9
+P00614,Adidas Sports 106,Sports & Fitness,Adidas,2660.0,1703.99,Marketplace,4.1
+P00615,Biba Fashion 240,Fashion,Biba,3500.0,2003.89,Assured,4.7
+P00616,Tata Grocery 175,Grocery,Tata,530.0,446.12,Assured,4.5
+P00617,Fortune Grocery 462,Grocery,Fortune,940.0,822.64,Assured,4.2
+P00618,Levis Fashion 524,Fashion,Levis,2120.0,1190.94,Marketplace,4.5
+P00619,Dell Laptops 212,Laptops,Dell,30600.0,27072.1,Assured,4.0
+P00620,Samsung Mobiles 567,Mobiles,Samsung,35960.0,33328.58,Assured,4.1
+P00621,Fortune Grocery 940,Grocery,Fortune,560.0,506.99,Marketplace,4.0
+P00622,Sleepwell Home 595,Home & Kitchen,Sleepwell,4020.0,2643.97,Assured,3.9
+P00623,Cosco Sports 152,Sports & Fitness,Cosco,1780.0,1184.94,Marketplace,4.4
+P00624,Cello Home 944,Home & Kitchen,Cello,410.0,254.98,Assured,4.5
+P00625,Cosco Sports 116,Sports & Fitness,Cosco,480.0,297.18,Assured,4.3
+P00626,Roadster Fashion 212,Fashion,Roadster,540.0,299.04,Assured,3.8
+P00627,Amul Grocery 788,Grocery,Amul,1390.0,1269.34,Assured,4.3
+P00628,Motorola Mobiles 161,Mobiles,Motorola,11280.0,10310.32,Assured,4.2
+P00629,Sleepwell Home 956,Home & Kitchen,Sleepwell,2650.0,1690.44,Assured,4.4
+P00630,Nestle Grocery 587,Grocery,Nestle,200.0,178.81,Marketplace,4.0
+P00631,Hasbro Toys 629,Toys,Hasbro,810.0,468.83,Assured,4.2
+P00632,Scholastic Books 560,Books,Scholastic,186.0,111.46,Assured,4.2
+P00633,Vivo Mobiles 275,Mobiles,Vivo,46200.0,43227.75,Assured,4.0
+P00634,HRX Fashion 302,Fashion,HRX,870.0,477.14,Marketplace,4.3
+P00635,Realme Mobiles 238,Mobiles,Realme,15440.0,14201.91,Assured,3.9
+P00636,Dell Laptops 566,Laptops,Dell,101990.0,91127.94,Assured,3.8
+P00637,Nivea Beauty 780,Beauty,Nivea,250.0,144.86,Marketplace,3.9
+P00638,Britannia Grocery 117,Grocery,Britannia,790.0,679.43,Assured,3.9
+P00639,Fortune Grocery 437,Grocery,Fortune,1280.0,1168.64,Assured,4.7
+P00640,Arihant Books 767,Books,Arihant,165.0,98.73,Assured,4.1
+P00641,Tata Grocery 102,Grocery,Tata,100.0,88.09,Assured,3.9
+P00642,Tata Grocery 305,Grocery,Tata,550.0,488.46,Assured,3.7
+P00643,Samsung Mobiles 312,Mobiles,Samsung,10040.0,8611.16,Assured,4.2
+P00644,boAt Electronics 434,Electronics Accessories,boAt,3380.0,2383.94,Assured,4.6
+P00645,Maybelline Beauty 366,Beauty,Maybelline,290.0,170.55,Assured,4.0
+P00646,Arihant Books 919,Books,Arihant,723.0,430.76,Assured,4.1
+P00647,Apple Mobiles 598,Mobiles,Apple,25080.0,21489.13,Marketplace,3.4
+P00648,Sleepwell Home 693,Home & Kitchen,Sleepwell,2350.0,1531.77,Assured,4.1
+P00649,Maybelline Beauty 140,Beauty,Maybelline,780.0,483.19,Assured,4.0
+P00650,Apple Mobiles 971,Mobiles,Apple,16430.0,14306.3,Assured,4.0
+P00651,Biba Fashion 991,Fashion,Biba,1970.0,1054.84,Marketplace,4.0
+P00652,Funskool Toys 136,Toys,Funskool,1250.0,749.67,Marketplace,3.8
+P00653,Mamaearth Beauty 844,Beauty,Mamaearth,290.0,182.18,Assured,4.1
+P00654,Anker Electronics 317,Electronics Accessories,Anker,2940.0,2133.0,Assured,4.2
+P00655,Arihant Books 359,Books,Arihant,183.0,113.84,Assured,4.3
+P00656,Levis Fashion 196,Fashion,Levis,4460.0,2396.92,Assured,3.8
+P00657,HarperCollins Books 869,Books,HarperCollins,363.0,231.15,Assured,4.0
+P00658,Levis Fashion 513,Fashion,Levis,1790.0,948.14,Assured,3.9
+P00659,Milton Home 779,Home & Kitchen,Milton,540.0,344.73,Assured,4.2
+P00660,Biba Fashion 209,Fashion,Biba,3340.0,1766.14,Assured,4.3
+P00661,Nike Fashion 786,Fashion,Nike,820.0,439.51,Assured,4.2
+P00662,Mattel Toys 864,Toys,Mattel,1710.0,1049.94,Assured,3.7
+P00663,Bosch Appliances 310,Appliances,Bosch,32780.0,27674.97,Marketplace,3.7
+P00664,Motorola Mobiles 532,Mobiles,Motorola,38530.0,34687.95,Assured,4.3
+P00665,Levis Fashion 227,Fashion,Levis,3250.0,1763.57,Assured,4.0
+P00666,Nestle Grocery 543,Grocery,Nestle,1550.0,1344.29,Assured,3.5
+P00667,Aashirvaad Grocery 752,Grocery,Aashirvaad,200.0,172.19,Assured,4.2
+P00668,Decathlon Sports 707,Sports & Fitness,Decathlon,400.0,253.51,Marketplace,4.0
+P00669,Puma Fashion 122,Fashion,Puma,2310.0,1296.38,Marketplace,3.9
+P00670,Biba Fashion 831,Fashion,Biba,780.0,414.43,Marketplace,4.1
+P00671,Asus Laptops 597,Laptops,Asus,31850.0,28240.67,Assured,4.1
+P00672,Wakefit Home 427,Home & Kitchen,Wakefit,500.0,336.33,Assured,3.9
+P00673,Adidas Sports 539,Sports & Fitness,Adidas,500.0,311.2,Marketplace,4.2
+P00674,Nestle Grocery 982,Grocery,Nestle,1060.0,948.85,Marketplace,4.1
+P00675,Prestige Home 678,Home & Kitchen,Prestige,5320.0,3590.63,Assured,4.6
+P00676,Roadster Fashion 282,Fashion,Roadster,2340.0,1249.85,Marketplace,3.8
+P00677,Mattel Toys 397,Toys,Mattel,390.0,231.6,Marketplace,4.0
+P00678,Milton Home 685,Home & Kitchen,Milton,6710.0,4448.7,Assured,4.4
+P00679,Apple Laptops 195,Laptops,Apple,42590.0,39252.93,Marketplace,4.3
+P00680,Levis Fashion 519,Fashion,Levis,2050.0,1107.56,Assured,4.0
+P00681,Realme Mobiles 501,Mobiles,Realme,29330.0,26429.17,Assured,4.3
+P00682,Portronics Electronics 908,Electronics Accessories,Portronics,1760.0,1183.86,Marketplace,4.3
+P00683,Realme Mobiles 275,Mobiles,Realme,16590.0,14580.15,Assured,4.4
+P00684,Nike Fashion 343,Fashion,Nike,880.0,491.19,Assured,4.5
+P00685,Maybelline Beauty 258,Beauty,Maybelline,1040.0,606.59,Assured,4.1
+P00686,Puma Fashion 135,Fashion,Puma,1260.0,677.26,Marketplace,4.3
+P00687,Levis Fashion 378,Fashion,Levis,670.0,367.16,Marketplace,4.3
+P00688,Yonex Sports 211,Sports & Fitness,Yonex,560.0,360.97,Marketplace,4.1
+P00689,Amul Grocery 616,Grocery,Amul,130.0,110.46,Marketplace,4.2
+P00690,Prestige Home 174,Home & Kitchen,Prestige,1260.0,825.49,Assured,4.3
+P00691,Puma Fashion 886,Fashion,Puma,910.0,489.17,Assured,3.9
+P00692,Mattel Toys 352,Toys,Mattel,270.0,164.59,Assured,3.2
+P00693,Anker Electronics 169,Electronics Accessories,Anker,310.0,225.13,Marketplace,4.2
+P00694,Puma Fashion 762,Fashion,Puma,2520.0,1454.87,Assured,4.2
+P00695,Barbie Toys 870,Toys,Barbie,770.0,472.56,Assured,3.4
+P00696,Wakefit Home 868,Home & Kitchen,Wakefit,2960.0,1904.75,Marketplace,4.1
+P00697,Tata Grocery 571,Grocery,Tata,380.0,343.62,Marketplace,4.6
+P00698,Sleepwell Home 435,Home & Kitchen,Sleepwell,880.0,551.06,Assured,4.6
+P00699,Nivea Beauty 250,Beauty,Nivea,500.0,295.39,Marketplace,4.3
+P00700,Puma Fashion 910,Fashion,Puma,1760.0,974.48,Assured,4.7
+P00701,Roadster Fashion 555,Fashion,Roadster,1670.0,886.23,Assured,4.1
+P00702,Biba Fashion 650,Fashion,Biba,760.0,400.03,Assured,4.0
+P00703,LG Appliances 644,Appliances,LG,14720.0,12253.55,Assured,3.9
+P00704,Hasbro Toys 312,Toys,Hasbro,590.0,368.49,Marketplace,4.3
+P00705,Puma Fashion 217,Fashion,Puma,450.0,250.92,Assured,4.7
+P00706,Milton Home 357,Home & Kitchen,Milton,3490.0,2171.31,Assured,3.8
+P00707,Fortune Grocery 881,Grocery,Fortune,550.0,465.16,Assured,4.2
+P00708,Tata Grocery 533,Grocery,Tata,270.0,247.68,Assured,3.9
+P00709,Puma Fashion 158,Fashion,Puma,4390.0,2518.83,Assured,4.1
+P00710,Wakefit Home 556,Home & Kitchen,Wakefit,5470.0,3533.6,Assured,4.0
+P00711,Yonex Sports 292,Sports & Fitness,Yonex,1870.0,1240.95,Marketplace,4.1
+P00712,Lakme Beauty 501,Beauty,Lakme,150.0,85.55,Assured,3.8
+P00713,Arihant Books 347,Books,Arihant,174.0,109.56,Assured,4.9
+P00714,Lego Toys 626,Toys,Lego,2440.0,1532.36,Marketplace,3.9
+P00715,Fortune Grocery 223,Grocery,Fortune,800.0,716.99,Assured,4.1
+P00716,Bosch Appliances 958,Appliances,Bosch,15140.0,12483.38,Assured,3.8
+P00717,Wakefit Home 857,Home & Kitchen,Wakefit,1360.0,906.81,Assured,3.9
+P00718,Dell Laptops 515,Laptops,Dell,32310.0,29327.79,Marketplace,4.0
+P00719,Nivea Beauty 492,Beauty,Nivea,800.0,483.79,Assured,3.9
+P00720,Cosco Sports 945,Sports & Fitness,Cosco,1580.0,1019.61,Assured,4.4
+P00721,Sleepwell Home 585,Home & Kitchen,Sleepwell,1450.0,947.44,Marketplace,4.2
+P00722,Puma Fashion 732,Fashion,Puma,2000.0,1090.24,Assured,3.9
+P00723,Vivo Mobiles 807,Mobiles,Vivo,20610.0,19307.6,Assured,3.8
+P00724,Yonex Sports 765,Sports & Fitness,Yonex,2540.0,1623.3,Marketplace,4.2
+P00725,Apple Laptops 210,Laptops,Apple,30520.0,25933.72,Marketplace,4.0
+P00726,OnePlus Mobiles 485,Mobiles,OnePlus,14340.0,12770.28,Assured,4.2
+P00727,Puma Fashion 222,Fashion,Puma,1960.0,1107.69,Assured,3.4
+P00728,Xiaomi Mobiles 212,Mobiles,Xiaomi,57220.0,49369.82,Marketplace,4.3
+P00729,Nike Fashion 120,Fashion,Nike,1840.0,989.61,Assured,4.1
+P00730,Sleepwell Home 796,Home & Kitchen,Sleepwell,710.0,468.99,Assured,3.8
+P00731,HRX Fashion 497,Fashion,HRX,710.0,395.78,Assured,3.7
+P00732,Apple Mobiles 625,Mobiles,Apple,42980.0,38756.71,Assured,3.8
+P00733,Dell Laptops 448,Laptops,Dell,89690.0,77849.59,Assured,4.6
+P00734,Puma Fashion 405,Fashion,Puma,1720.0,980.04,Marketplace,3.7
+P00735,Vivo Mobiles 454,Mobiles,Vivo,42890.0,40529.95,Assured,4.0
+P00736,Britannia Grocery 341,Grocery,Britannia,340.0,304.94,Assured,3.7
+P00737,JBL Electronics 899,Electronics Accessories,JBL,1120.0,806.92,Assured,3.8
+P00738,Biba Fashion 889,Fashion,Biba,620.0,348.17,Assured,4.1
+P00739,HRX Fashion 713,Fashion,HRX,540.0,288.59,Assured,4.3
+P00740,Biba Fashion 946,Fashion,Biba,1020.0,551.13,Marketplace,4.4
+P00741,Samsung Mobiles 466,Mobiles,Samsung,77190.0,68704.53,Assured,4.3
+P00742,Asus Laptops 526,Laptops,Asus,123610.0,107051.09,Assured,4.7
+P00743,HarperCollins Books 357,Books,HarperCollins,542.0,344.7,Marketplace,4.0
+P00744,Realme Mobiles 667,Mobiles,Realme,13470.0,11703.22,Assured,4.7
+P00745,Cello Home 268,Home & Kitchen,Cello,2190.0,1474.51,Assured,3.9
+P00746,Sleepwell Home 577,Home & Kitchen,Sleepwell,6650.0,4452.47,Assured,4.0
+P00747,Nike Fashion 721,Fashion,Nike,1960.0,1048.66,Marketplace,3.5
+P00748,Nike Fashion 304,Fashion,Nike,4290.0,2297.37,Marketplace,3.5
+P00749,Nestle Grocery 742,Grocery,Nestle,270.0,229.49,Assured,3.8
+P00750,HarperCollins Books 311,Books,HarperCollins,232.0,136.78,Assured,4.4
+P00751,Nike Fashion 658,Fashion,Nike,430.0,239.5,Assured,4.0
+P00752,Biba Fashion 623,Fashion,Biba,3310.0,1804.47,Assured,3.7
+P00753,HRX Fashion 921,Fashion,HRX,2850.0,1631.87,Assured,4.3
+P00754,Pigeon Home 376,Home & Kitchen,Pigeon,500.0,319.57,Marketplace,3.8
+P00755,Maybelline Beauty 192,Beauty,Maybelline,1990.0,1135.12,Marketplace,4.2
+P00756,JBL Electronics 635,Electronics Accessories,JBL,670.0,456.03,Assured,4.4
+P00757,Nike Fashion 653,Fashion,Nike,940.0,502.43,Marketplace,4.2
+P00758,Mattel Toys 139,Toys,Mattel,380.0,226.62,Marketplace,4.2
+P00759,Vivo Mobiles 462,Mobiles,Vivo,43660.0,38252.5,Assured,3.7
+P00760,Wakefit Home 277,Home & Kitchen,Wakefit,2960.0,1883.84,Assured,4.3
+P00761,Amul Grocery 493,Grocery,Amul,530.0,485.96,Marketplace,4.1
+P00762,Samsung Appliances 670,Appliances,Samsung,29710.0,25228.92,Assured,4.3
+P00763,Realme Mobiles 122,Mobiles,Realme,32780.0,28048.9,Marketplace,4.3
+P00764,Dell Laptops 652,Laptops,Dell,69810.0,59578.58,Marketplace,3.6
+P00765,Mattel Toys 785,Toys,Mattel,2250.0,1315.0,Assured,4.3
+P00766,Xiaomi Mobiles 320,Mobiles,Xiaomi,19760.0,18671.23,Assured,4.5
+P00767,Voltas Appliances 981,Appliances,Voltas,12170.0,9942.21,Assured,3.8
+P00768,Realme Mobiles 834,Mobiles,Realme,9580.0,8427.73,Assured,4.2
+P00769,Asus Laptops 149,Laptops,Asus,79130.0,67326.85,Assured,3.9
+P00770,Maybelline Beauty 928,Beauty,Maybelline,230.0,138.18,Marketplace,4.5
+P00771,HRX Fashion 552,Fashion,HRX,780.0,420.18,Assured,3.9
+P00772,Cello Home 984,Home & Kitchen,Cello,1480.0,935.38,Assured,4.1
+P00773,Sleepwell Home 744,Home & Kitchen,Sleepwell,900.0,565.96,Assured,4.3
+P00774,Oxford Books 938,Books,Oxford,165.0,101.42,Marketplace,4.0
+P00775,Vivo Mobiles 361,Mobiles,Vivo,80680.0,71974.69,Marketplace,3.7
+P00776,Penguin Books 994,Books,Penguin,288.0,179.55,Marketplace,4.1
+P00777,Himalaya Beauty 874,Beauty,Himalaya,1540.0,929.84,Assured,4.2
+P00778,Godrej Appliances 842,Appliances,Godrej,28870.0,24130.86,Assured,4.2
+P00779,Nestle Grocery 852,Grocery,Nestle,410.0,348.96,Marketplace,4.1
+P00780,Penguin Books 204,Books,Penguin,803.0,519.09,Marketplace,4.0
+P00781,Puma Fashion 555,Fashion,Puma,460.0,256.1,Assured,4.0
+P00782,Hasbro Toys 596,Toys,Hasbro,990.0,566.79,Assured,3.6
+P00783,Nike Fashion 977,Fashion,Nike,3680.0,1983.45,Assured,3.7
+P00784,Nivea Beauty 886,Beauty,Nivea,580.0,348.0,Assured,4.0
+P00785,Cosco Sports 857,Sports & Fitness,Cosco,740.0,486.84,Assured,3.9
+P00786,HRX Fashion 397,Fashion,HRX,3790.0,2154.32,Marketplace,3.3
+P00787,Arihant Books 348,Books,Arihant,745.0,469.22,Assured,4.4
+P00788,Roadster Fashion 156,Fashion,Roadster,680.0,355.44,Assured,3.7
+P00789,Aashirvaad Grocery 371,Grocery,Aashirvaad,350.0,323.13,Marketplace,4.1
+P00790,Mamaearth Beauty 683,Beauty,Mamaearth,480.0,294.72,Assured,4.5
+P00791,Portronics Electronics 398,Electronics Accessories,Portronics,310.0,221.7,Marketplace,4.4
+P00792,Levis Fashion 256,Fashion,Levis,450.0,236.33,Assured,4.1
+P00793,Biba Fashion 574,Fashion,Biba,1360.0,759.81,Assured,4.1
+P00794,Xiaomi Mobiles 148,Mobiles,Xiaomi,40580.0,37859.33,Assured,4.0
+P00795,Xiaomi Mobiles 614,Mobiles,Xiaomi,72230.0,65711.78,Marketplace,4.5
+P00796,Roadster Fashion 891,Fashion,Roadster,2050.0,1180.97,Assured,4.5
+P00797,Apple Mobiles 588,Mobiles,Apple,49920.0,43837.62,Assured,3.9
+P00798,Whirlpool Appliances 252,Appliances,Whirlpool,21510.0,17200.61,Assured,4.3
+P00799,Nestle Grocery 165,Grocery,Nestle,120.0,105.08,Assured,4.7
+P00800,Tata Grocery 463,Grocery,Tata,1250.0,1094.36,Assured,4.3
+P00801,Aashirvaad Grocery 210,Grocery,Aashirvaad,230.0,194.35,Assured,3.8
+P00802,Puma Fashion 531,Fashion,Puma,510.0,278.88,Assured,4.1
+P00803,Funskool Toys 312,Toys,Funskool,400.0,247.21,Marketplace,4.3
+P00804,Wakefit Home 740,Home & Kitchen,Wakefit,1070.0,704.33,Assured,4.6
+P00805,Asus Laptops 607,Laptops,Asus,60670.0,51460.67,Assured,4.3
+P00806,Bosch Appliances 514,Appliances,Bosch,14780.0,12605.23,Assured,3.9
+P00807,Nestle Grocery 838,Grocery,Nestle,130.0,114.16,Assured,4.1
+P00808,Whirlpool Appliances 775,Appliances,Whirlpool,41370.0,36056.79,Marketplace,3.9
+P00809,Cello Home 274,Home & Kitchen,Cello,1150.0,758.77,Assured,4.2
+P00810,Adidas Sports 431,Sports & Fitness,Adidas,4400.0,2731.23,Assured,3.6
+P00811,Samsung Mobiles 540,Mobiles,Samsung,76500.0,71991.9,Marketplace,3.7
+P00812,Xiaomi Mobiles 443,Mobiles,Xiaomi,65890.0,60821.89,Assured,4.3
+P00813,Decathlon Sports 757,Sports & Fitness,Decathlon,650.0,441.83,Assured,3.5
+P00814,Sleepwell Home 279,Home & Kitchen,Sleepwell,990.0,618.55,Marketplace,3.8
+P00815,Asus Laptops 646,Laptops,Asus,49180.0,42551.76,Assured,4.8
+P00816,Mattel Toys 785,Toys,Mattel,1320.0,798.61,Marketplace,4.7
+P00817,Mattel Toys 183,Toys,Mattel,480.0,289.56,Marketplace,3.9
+P00818,Prestige Home 111,Home & Kitchen,Prestige,860.0,566.39,Marketplace,4.2
+P00819,Himalaya Beauty 353,Beauty,Himalaya,250.0,148.88,Assured,4.3
+P00820,Levis Fashion 410,Fashion,Levis,1870.0,1017.81,Assured,4.2
+P00821,Vivo Mobiles 395,Mobiles,Vivo,20230.0,17454.11,Marketplace,3.7
+P00822,Milton Home 230,Home & Kitchen,Milton,340.0,213.19,Marketplace,3.8
+P00823,Roadster Fashion 409,Fashion,Roadster,1150.0,649.31,Marketplace,3.8
+P00824,Nivea Beauty 421,Beauty,Nivea,240.0,147.97,Marketplace,3.9
+P00825,HarperCollins Books 349,Books,HarperCollins,663.0,404.47,Assured,4.5
+P00826,Vivo Mobiles 368,Mobiles,Vivo,31970.0,27534.08,Marketplace,4.5
+P00827,Wakefit Home 283,Home & Kitchen,Wakefit,2450.0,1658.3,Marketplace,4.0
+P00828,Anker Electronics 913,Electronics Accessories,Anker,1830.0,1335.87,Assured,3.9
+P00829,Lego Toys 836,Toys,Lego,620.0,377.38,Assured,4.2
+P00830,Puma Fashion 895,Fashion,Puma,3530.0,2029.22,Assured,4.3
+P00831,Lakme Beauty 383,Beauty,Lakme,1540.0,891.23,Marketplace,4.0
+P00832,Prestige Home 684,Home & Kitchen,Prestige,1970.0,1303.78,Assured,4.5
+P00833,Nike Fashion 845,Fashion,Nike,680.0,363.49,Marketplace,4.2
+P00834,Maybelline Beauty 313,Beauty,Maybelline,260.0,160.35,Assured,4.4
+P00835,Tata Grocery 936,Grocery,Tata,350.0,309.91,Assured,3.6
+P00836,Prestige Home 489,Home & Kitchen,Prestige,1290.0,831.09,Assured,4.4
+P00837,Aashirvaad Grocery 136,Grocery,Aashirvaad,670.0,600.32,Assured,4.1
+P00838,Nivia Sports 596,Sports & Fitness,Nivia,590.0,392.3,Assured,4.2
+P00839,Nike Fashion 835,Fashion,Nike,690.0,370.68,Marketplace,3.8
+P00840,Wakefit Home 753,Home & Kitchen,Wakefit,540.0,349.9,Assured,3.8
+P00841,Samsung Mobiles 417,Mobiles,Samsung,10290.0,9154.31,Assured,3.9
+P00842,Amul Grocery 938,Grocery,Amul,100.0,89.28,Marketplace,3.9
+P00843,Prestige Home 640,Home & Kitchen,Prestige,5580.0,3575.25,Assured,4.1
+P00844,Puma Fashion 757,Fashion,Puma,1120.0,590.86,Marketplace,3.8
+P00845,Vivo Mobiles 239,Mobiles,Vivo,82080.0,71132.56,Marketplace,4.3
+P00846,Lego Toys 963,Toys,Lego,1570.0,920.38,Marketplace,3.6
+P00847,Nike Fashion 500,Fashion,Nike,1470.0,768.55,Assured,4.7
+P00848,Himalaya Beauty 937,Beauty,Himalaya,250.0,150.46,Assured,4.2
+P00849,LG Appliances 157,Appliances,LG,12950.0,11079.59,Assured,4.3
+P00850,Cosco Sports 149,Sports & Fitness,Cosco,2970.0,1990.3,Marketplace,4.2
+P00851,Godrej Appliances 186,Appliances,Godrej,24060.0,20478.33,Assured,3.7
+P00852,Bosch Appliances 713,Appliances,Bosch,13350.0,10797.17,Assured,4.2
+P00853,Arihant Books 997,Books,Arihant,419.0,247.46,Assured,4.4
+P00854,Funskool Toys 894,Toys,Funskool,620.0,387.35,Marketplace,3.9
+P00855,JBL Electronics 770,Electronics Accessories,JBL,810.0,556.38,Marketplace,4.7
+P00856,Milton Home 873,Home & Kitchen,Milton,830.0,526.04,Marketplace,4.3
+P00857,Britannia Grocery 329,Grocery,Britannia,110.0,93.62,Assured,4.4
+P00858,Lego Toys 886,Toys,Lego,1180.0,698.27,Assured,4.0
+P00859,Roadster Fashion 631,Fashion,Roadster,2680.0,1415.21,Assured,4.2
+P00860,Milton Home 199,Home & Kitchen,Milton,840.0,572.27,Assured,3.8
+P00861,Britannia Grocery 612,Grocery,Britannia,150.0,131.26,Assured,3.9
+P00862,Aashirvaad Grocery 353,Grocery,Aashirvaad,650.0,595.75,Assured,4.5
+P00863,Fortune Grocery 856,Grocery,Fortune,260.0,229.23,Assured,3.7
+P00864,Milton Home 367,Home & Kitchen,Milton,3210.0,2108.76,Assured,4.1
+P00865,Asus Laptops 594,Laptops,Asus,141060.0,125354.67,Assured,3.9
+P00866,Funskool Toys 973,Toys,Funskool,510.0,309.72,Marketplace,4.4
+P00867,Oxford Books 157,Books,Oxford,251.0,153.29,Assured,4.0
+P00868,Amul Grocery 372,Grocery,Amul,1140.0,986.43,Marketplace,4.1
+P00869,Apple Mobiles 427,Mobiles,Apple,79030.0,68290.45,Assured,3.8
+P00870,JBL Electronics 695,Electronics Accessories,JBL,460.0,310.93,Assured,4.1
+P00871,Nestle Grocery 116,Grocery,Nestle,150.0,132.02,Marketplace,4.3
+P00872,Samsung Mobiles 983,Mobiles,Samsung,9780.0,8957.57,Marketplace,4.1
+P00873,Decathlon Sports 445,Sports & Fitness,Decathlon,2650.0,1692.24,Marketplace,4.6
+P00874,HRX Fashion 611,Fashion,HRX,3990.0,2149.43,Assured,4.5
+P00875,Britannia Grocery 811,Grocery,Britannia,330.0,292.86,Assured,3.8
+P00876,Hasbro Toys 922,Toys,Hasbro,1210.0,719.74,Assured,4.5
+P00877,Puma Fashion 160,Fashion,Puma,1450.0,829.18,Marketplace,4.2
+P00878,Roadster Fashion 151,Fashion,Roadster,1540.0,855.3,Assured,4.3
+P00879,Nivea Beauty 739,Beauty,Nivea,170.0,99.83,Marketplace,4.1
+P00880,Prestige Home 495,Home & Kitchen,Prestige,610.0,409.81,Marketplace,3.9
+P00881,HRX Fashion 380,Fashion,HRX,1170.0,652.61,Marketplace,4.0
+P00882,Nivea Beauty 760,Beauty,Nivea,830.0,511.38,Assured,4.3
+P00883,Hasbro Toys 261,Toys,Hasbro,710.0,422.62,Assured,3.8
+P00884,Cello Home 336,Home & Kitchen,Cello,2470.0,1639.44,Assured,3.7
+P00885,LG Appliances 816,Appliances,LG,18910.0,16335.44,Assured,3.6
+P00886,Biba Fashion 490,Fashion,Biba,490.0,260.95,Marketplace,4.5
+P00887,HRX Fashion 423,Fashion,HRX,1670.0,899.1,Assured,3.9
+P00888,HP Laptops 219,Laptops,HP,108620.0,97943.93,Assured,4.2
+P00889,LG Appliances 216,Appliances,LG,24520.0,19999.36,Marketplace,4.1
+P00890,Nivea Beauty 690,Beauty,Nivea,1840.0,1140.68,Marketplace,3.4
+P00891,Nike Fashion 593,Fashion,Nike,960.0,528.84,Marketplace,4.3
+P00892,Cosco Sports 778,Sports & Fitness,Cosco,1910.0,1225.37,Marketplace,4.4
+P00893,Levis Fashion 625,Fashion,Levis,610.0,332.84,Assured,4.3
+P00894,Motorola Mobiles 791,Mobiles,Motorola,11650.0,10896.05,Assured,4.2
+P00895,Britannia Grocery 869,Grocery,Britannia,440.0,396.86,Assured,4.8
+P00896,Hasbro Toys 867,Toys,Hasbro,2340.0,1341.34,Marketplace,4.5
+P00897,Biba Fashion 781,Fashion,Biba,470.0,259.44,Assured,4.0
+P00898,Anker Electronics 151,Electronics Accessories,Anker,3470.0,2457.2,Marketplace,4.2
+P00899,Bosch Appliances 716,Appliances,Bosch,58100.0,46872.06,Assured,4.2
+P00900,Prestige Home 188,Home & Kitchen,Prestige,6930.0,4324.47,Marketplace,3.9
+P00901,Wakefit Home 899,Home & Kitchen,Wakefit,370.0,247.73,Marketplace,4.2
+P00902,Puma Fashion 914,Fashion,Puma,870.0,468.87,Assured,4.0
+P00903,Vivo Mobiles 905,Mobiles,Vivo,41330.0,35917.06,Marketplace,4.5
+P00904,Prestige Home 921,Home & Kitchen,Prestige,2460.0,1579.93,Marketplace,4.0
+P00905,Cosco Sports 906,Sports & Fitness,Cosco,3380.0,2236.56,Assured,3.9
+P00906,Nivea Beauty 970,Beauty,Nivea,2200.0,1381.7,Assured,4.1
+P00907,Pigeon Home 776,Home & Kitchen,Pigeon,3280.0,2043.72,Marketplace,4.2
+P00908,Lenovo Laptops 315,Laptops,Lenovo,66350.0,55779.0,Assured,4.2
+P00909,Puma Fashion 937,Fashion,Puma,2430.0,1332.49,Assured,4.7
+P00910,Nike Fashion 416,Fashion,Nike,1780.0,1003.11,Marketplace,4.1
+P00911,Amul Grocery 573,Grocery,Amul,200.0,171.13,Assured,4.3
+P00912,Lego Toys 750,Toys,Lego,980.0,563.75,Marketplace,4.4
+P00913,Funskool Toys 878,Toys,Funskool,790.0,461.85,Marketplace,4.1
+P00914,Yonex Sports 829,Sports & Fitness,Yonex,3630.0,2350.78,Marketplace,3.9
+P00915,Nivia Sports 202,Sports & Fitness,Nivia,570.0,380.57,Marketplace,4.2
+P00916,Decathlon Sports 692,Sports & Fitness,Decathlon,4670.0,3003.98,Assured,4.4
+P00917,Vivo Mobiles 607,Mobiles,Vivo,50840.0,45796.09,Marketplace,4.3
+P00918,Lenovo Laptops 156,Laptops,Lenovo,114160.0,103022.07,Assured,4.0
+P00919,Nike Fashion 744,Fashion,Nike,2070.0,1141.19,Marketplace,4.4
+P00920,Milton Home 415,Home & Kitchen,Milton,570.0,367.17,Marketplace,3.8
+P00921,Samsung Mobiles 256,Mobiles,Samsung,45880.0,40739.58,Assured,3.8
+P00922,HarperCollins Books 572,Books,HarperCollins,234.0,149.31,Marketplace,4.3
+P00923,Nivea Beauty 687,Beauty,Nivea,380.0,229.13,Assured,3.5
+P00924,Sleepwell Home 525,Home & Kitchen,Sleepwell,1510.0,951.9,Assured,3.8
+P00925,Voltas Appliances 610,Appliances,Voltas,15040.0,12585.94,Marketplace,3.9
+P00926,Levis Fashion 189,Fashion,Levis,680.0,384.67,Marketplace,3.6
+P00927,Bosch Appliances 325,Appliances,Bosch,9410.0,7543.44,Marketplace,4.2
+P00928,Scholastic Books 598,Books,Scholastic,377.0,227.95,Marketplace,4.1
+P00929,Wakefit Home 760,Home & Kitchen,Wakefit,2300.0,1520.87,Assured,3.7
+P00930,Aashirvaad Grocery 215,Grocery,Aashirvaad,730.0,622.82,Marketplace,4.0
+P00931,Puma Fashion 239,Fashion,Puma,530.0,281.75,Assured,4.4
+P00932,Roadster Fashion 740,Fashion,Roadster,610.0,328.15,Assured,4.3
+P00933,Levis Fashion 962,Fashion,Levis,2680.0,1472.89,Assured,4.1
+P00934,Nestle Grocery 857,Grocery,Nestle,150.0,126.52,Marketplace,3.8
+P00935,Britannia Grocery 861,Grocery,Britannia,420.0,352.14,Marketplace,3.1
+P00936,Sony Electronics 575,Electronics Accessories,Sony,3490.0,2335.78,Marketplace,4.0
+P00937,Yonex Sports 817,Sports & Fitness,Yonex,580.0,375.68,Marketplace,4.1
+P00938,Asus Laptops 362,Laptops,Asus,81840.0,69381.0,Marketplace,4.9
+P00939,Barbie Toys 345,Toys,Barbie,930.0,544.84,Assured,3.9
+P00940,Apple Laptops 881,Laptops,Apple,104800.0,90314.07,Assured,4.1
+P00941,Levis Fashion 371,Fashion,Levis,2440.0,1350.25,Assured,4.5
+P00942,Arihant Books 888,Books,Arihant,649.0,384.11,Marketplace,3.8
+P00943,Voltas Appliances 324,Appliances,Voltas,16190.0,13283.45,Assured,3.9
+P00944,Nike Fashion 689,Fashion,Nike,1040.0,591.22,Marketplace,4.4
+P00945,Puma Fashion 833,Fashion,Puma,570.0,298.99,Assured,3.9
+P00946,Nike Fashion 431,Fashion,Nike,2010.0,1122.31,Assured,4.4
+P00947,Nestle Grocery 140,Grocery,Nestle,360.0,314.59,Marketplace,4.2
+P00948,Scholastic Books 700,Books,Scholastic,172.0,104.6,Assured,4.0
+P00949,Funskool Toys 379,Toys,Funskool,860.0,526.03,Assured,4.0
+P00950,Puma Fashion 658,Fashion,Puma,800.0,453.17,Assured,3.9
+P00951,Milton Home 994,Home & Kitchen,Milton,1620.0,1102.38,Assured,4.1
+P00952,Biba Fashion 244,Fashion,Biba,920.0,514.4,Assured,4.2
+P00953,Nike Fashion 402,Fashion,Nike,2960.0,1655.2,Assured,4.3
+P00954,Voltas Appliances 954,Appliances,Voltas,18440.0,15463.67,Assured,3.7
+P00955,Decathlon Sports 916,Sports & Fitness,Decathlon,5430.0,3554.9,Assured,4.4
+P00956,Funskool Toys 874,Toys,Funskool,1900.0,1176.35,Assured,4.2
+P00957,Aashirvaad Grocery 548,Grocery,Aashirvaad,120.0,107.24,Marketplace,4.2
+P00958,Milton Home 783,Home & Kitchen,Milton,4460.0,2957.92,Assured,4.1
+P00959,Wakefit Home 152,Home & Kitchen,Wakefit,440.0,276.17,Marketplace,4.5
+P00960,Milton Home 980,Home & Kitchen,Milton,5960.0,4026.36,Assured,4.1
+P00961,Prestige Home 883,Home & Kitchen,Prestige,4210.0,2641.18,Assured,4.4
+P00962,Puma Fashion 431,Fashion,Puma,610.0,334.02,Assured,4.0
+P00963,Lenovo Laptops 888,Laptops,Lenovo,148580.0,136141.73,Assured,4.6
+P00964,Lenovo Laptops 507,Laptops,Lenovo,59540.0,49804.78,Marketplace,4.1
+P00965,Decathlon Sports 186,Sports & Fitness,Decathlon,1160.0,736.37,Assured,3.8
+P00966,Prestige Home 863,Home & Kitchen,Prestige,1670.0,1055.68,Assured,4.3
+P00967,Yonex Sports 612,Sports & Fitness,Yonex,580.0,388.62,Marketplace,4.1
+P00968,Samsung Appliances 238,Appliances,Samsung,19340.0,16085.45,Assured,4.9
+P00969,Wakefit Home 303,Home & Kitchen,Wakefit,1390.0,884.42,Assured,4.4
+P00970,Sony Electronics 111,Electronics Accessories,Sony,240.0,162.67,Marketplace,4.0
+P00971,Nike Fashion 421,Fashion,Nike,1820.0,957.82,Marketplace,4.3
+P00972,Samsung Mobiles 614,Mobiles,Samsung,7630.0,6580.84,Assured,4.3
+P00973,HP Laptops 317,Laptops,HP,66180.0,57356.82,Marketplace,3.8
+P00974,Funskool Toys 654,Toys,Funskool,330.0,200.12,Marketplace,3.6
+P00975,Roadster Fashion 673,Fashion,Roadster,1470.0,779.36,Assured,4.3
+P00976,Maybelline Beauty 850,Beauty,Maybelline,1620.0,965.16,Marketplace,4.6
+P00977,Prestige Home 430,Home & Kitchen,Prestige,450.0,295.43,Assured,4.1
+P00978,HRX Fashion 955,Fashion,HRX,750.0,408.85,Marketplace,4.0
+P00979,Cello Home 875,Home & Kitchen,Cello,450.0,277.89,Assured,3.9
+P00980,Samsung Appliances 407,Appliances,Samsung,33130.0,26622.28,Assured,4.0
+P00981,Nivia Sports 204,Sports & Fitness,Nivia,1700.0,1081.52,Marketplace,4.0
+P00982,HarperCollins Books 395,Books,HarperCollins,240.0,145.03,Marketplace,4.2
+P00983,Aashirvaad Grocery 500,Grocery,Aashirvaad,170.0,144.95,Assured,4.6
+P00984,Pigeon Home 650,Home & Kitchen,Pigeon,2250.0,1484.46,Marketplace,4.4
+P00985,Godrej Appliances 759,Appliances,Godrej,51400.0,44491.61,Marketplace,3.7
+P00986,Mattel Toys 479,Toys,Mattel,510.0,293.67,Assured,4.3
+P00987,HRX Fashion 937,Fashion,HRX,400.0,224.17,Assured,3.6
+P00988,Apple Mobiles 901,Mobiles,Apple,31000.0,28325.14,Marketplace,4.1
+P00989,Nike Fashion 981,Fashion,Nike,2170.0,1184.52,Assured,3.9
+P00990,Tata Grocery 990,Grocery,Tata,330.0,296.4,Assured,4.5
+P00991,Lakme Beauty 133,Beauty,Lakme,500.0,300.83,Marketplace,4.3
+P00992,Aashirvaad Grocery 754,Grocery,Aashirvaad,170.0,152.88,Assured,3.7
+P00993,Aashirvaad Grocery 854,Grocery,Aashirvaad,540.0,457.91,Assured,3.9
+P00994,boAt Electronics 473,Electronics Accessories,boAt,230.0,165.64,Assured,3.7
+P00995,Funskool Toys 554,Toys,Funskool,2920.0,1751.71,Assured,4.3
+P00996,Biba Fashion 708,Fashion,Biba,570.0,310.23,Assured,3.9
+P00997,Mamaearth Beauty 129,Beauty,Mamaearth,1620.0,996.3,Assured,4.2
+P00998,Apple Mobiles 239,Mobiles,Apple,13350.0,12055.12,Marketplace,3.8
+P00999,Decathlon Sports 499,Sports & Fitness,Decathlon,1300.0,821.0,Assured,4.2
+P01000,Nike Fashion 201,Fashion,Nike,1370.0,752.41,Assured,4.7
+P01001,Realme Mobiles 916,Mobiles,Realme,21700.0,19510.34,Marketplace,3.8
+P01002,Roadster Fashion 167,Fashion,Roadster,940.0,512.9,Marketplace,4.6
+P01003,Acer Laptops 675,Laptops,Acer,74590.0,63520.81,Assured,3.9
+P01004,Voltas Appliances 181,Appliances,Voltas,12360.0,10836.69,Marketplace,4.4
+P01005,Maybelline Beauty 849,Beauty,Maybelline,440.0,256.2,Assured,4.6
+P01006,Nike Fashion 926,Fashion,Nike,3640.0,2032.21,Assured,4.5
+P01007,Funskool Toys 895,Toys,Funskool,460.0,266.02,Assured,3.9
+P01008,Puma Fashion 853,Fashion,Puma,1200.0,631.93,Marketplace,4.0
+P01009,Nestle Grocery 514,Grocery,Nestle,110.0,94.1,Assured,4.0
+P01010,Milton Home 753,Home & Kitchen,Milton,340.0,214.59,Marketplace,4.5
+P01011,Biotique Beauty 341,Beauty,Biotique,1310.0,777.32,Assured,3.7
+P01012,Wakefit Home 553,Home & Kitchen,Wakefit,1750.0,1190.8,Assured,4.1
+P01013,Sleepwell Home 934,Home & Kitchen,Sleepwell,2890.0,1955.11,Marketplace,4.1
+P01014,Cosco Sports 823,Sports & Fitness,Cosco,3450.0,2274.88,Assured,3.5
+P01015,Biba Fashion 549,Fashion,Biba,660.0,363.78,Assured,3.9
+P01016,LG Appliances 723,Appliances,LG,10650.0,9257.87,Assured,3.6
+P01017,Maybelline Beauty 860,Beauty,Maybelline,230.0,144.24,Assured,3.9
+P01018,Penguin Books 577,Books,Penguin,371.0,234.77,Assured,4.3
+P01019,Apple Mobiles 440,Mobiles,Apple,12780.0,11922.1,Assured,3.5
+P01020,Biba Fashion 861,Fashion,Biba,620.0,343.7,Assured,3.9
+P01021,Barbie Toys 522,Toys,Barbie,890.0,547.15,Assured,4.4
+P01022,Fortune Grocery 235,Grocery,Fortune,250.0,224.7,Marketplace,4.2
+P01023,Cosco Sports 506,Sports & Fitness,Cosco,4340.0,2760.09,Marketplace,4.4
+P01024,Cello Home 544,Home & Kitchen,Cello,2960.0,1960.33,Marketplace,4.0
+P01025,Nivea Beauty 489,Beauty,Nivea,1280.0,750.61,Assured,3.8
+P01026,Roadster Fashion 556,Fashion,Roadster,3920.0,2149.98,Assured,4.1
+P01027,Decathlon Sports 216,Sports & Fitness,Decathlon,1640.0,1105.36,Assured,3.9
+P01028,Puma Fashion 597,Fashion,Puma,660.0,370.33,Marketplace,3.9
+P01029,Tata Grocery 732,Grocery,Tata,1490.0,1282.92,Assured,4.0
+P01030,HRX Fashion 361,Fashion,HRX,3330.0,1824.69,Marketplace,4.5
+P01031,Milton Home 777,Home & Kitchen,Milton,2390.0,1502.75,Marketplace,4.0
+P01032,Amul Grocery 977,Grocery,Amul,140.0,119.52,Assured,4.1
+P01033,Pigeon Home 219,Home & Kitchen,Pigeon,820.0,538.39,Marketplace,4.0
+P01034,Funskool Toys 600,Toys,Funskool,370.0,228.96,Assured,4.4
+P01035,Roadster Fashion 571,Fashion,Roadster,400.0,213.28,Marketplace,4.5
+P01036,Nivea Beauty 683,Beauty,Nivea,270.0,157.33,Assured,4.0
+P01037,Puma Fashion 951,Fashion,Puma,1140.0,629.15,Assured,4.4
+P01038,Roadster Fashion 889,Fashion,Roadster,650.0,364.32,Assured,3.9
+P01039,Puma Fashion 803,Fashion,Puma,2020.0,1064.35,Assured,3.8
+P01040,HP Laptops 519,Laptops,HP,56650.0,48039.69,Assured,4.2
+P01041,OnePlus Mobiles 924,Mobiles,OnePlus,9300.0,8452.99,Assured,4.1
+P01042,Himalaya Beauty 868,Beauty,Himalaya,360.0,217.62,Assured,4.3
+P01043,Biotique Beauty 830,Beauty,Biotique,1580.0,921.99,Assured,3.7
+P01044,Lakme Beauty 714,Beauty,Lakme,560.0,344.76,Assured,3.9
+P01045,Realme Mobiles 345,Mobiles,Realme,25180.0,23041.12,Marketplace,3.5
+P01046,Levis Fashion 558,Fashion,Levis,2310.0,1297.55,Assured,4.6
+P01047,Godrej Appliances 339,Appliances,Godrej,34950.0,29522.32,Marketplace,4.7
+P01048,Nestle Grocery 460,Grocery,Nestle,1100.0,978.38,Marketplace,4.3
+P01049,Penguin Books 140,Books,Penguin,184.0,117.39,Assured,4.6
+P01050,Levis Fashion 780,Fashion,Levis,930.0,509.72,Marketplace,4.4
+P01051,Biotique Beauty 898,Beauty,Biotique,2320.0,1357.83,Marketplace,4.2
+P01052,Lenovo Laptops 334,Laptops,Lenovo,147870.0,132270.01,Marketplace,4.2
+P01053,Roadster Fashion 111,Fashion,Roadster,3110.0,1700.58,Assured,3.6
+P01054,Apple Laptops 922,Laptops,Apple,77090.0,66665.51,Assured,4.1
+P01055,HRX Fashion 136,Fashion,HRX,2600.0,1493.32,Assured,3.8
+P01056,Biotique Beauty 806,Beauty,Biotique,760.0,439.97,Assured,4.1
+P01057,Funskool Toys 522,Toys,Funskool,360.0,221.0,Marketplace,4.6
+P01058,boAt Electronics 971,Electronics Accessories,boAt,560.0,389.99,Assured,3.8
+P01059,Prestige Home 998,Home & Kitchen,Prestige,880.0,560.71,Assured,4.1
+P01060,Tata Grocery 346,Grocery,Tata,130.0,120.03,Marketplace,3.8
+P01061,Decathlon Sports 254,Sports & Fitness,Decathlon,1350.0,844.41,Assured,4.1
+P01062,Maybelline Beauty 902,Beauty,Maybelline,1210.0,707.61,Marketplace,4.2
+P01063,Roadster Fashion 860,Fashion,Roadster,750.0,393.34,Assured,3.7
+P01064,Maybelline Beauty 876,Beauty,Maybelline,330.0,192.86,Marketplace,3.9
+P01065,Roadster Fashion 442,Fashion,Roadster,590.0,335.99,Assured,4.1
+P01066,Nivia Sports 506,Sports & Fitness,Nivia,750.0,480.32,Assured,3.8
+P01067,Biba Fashion 720,Fashion,Biba,1160.0,642.8,Assured,3.7
+P01068,Maybelline Beauty 728,Beauty,Maybelline,1880.0,1131.66,Marketplace,3.8
+P01069,Apple Mobiles 661,Mobiles,Apple,21660.0,19383.99,Marketplace,3.8
+P01070,Puma Fashion 837,Fashion,Puma,4080.0,2266.83,Marketplace,4.1
+P01071,Hasbro Toys 331,Toys,Hasbro,820.0,467.57,Marketplace,3.3
+P01072,Biotique Beauty 328,Beauty,Biotique,640.0,391.41,Assured,3.8
+P01073,Levis Fashion 413,Fashion,Levis,4490.0,2406.38,Assured,3.8
+P01074,Barbie Toys 115,Toys,Barbie,670.0,386.5,Assured,4.2
+P01075,Penguin Books 194,Books,Penguin,557.0,357.98,Assured,4.3
+P01076,Puma Fashion 742,Fashion,Puma,410.0,220.01,Assured,4.6
+P01077,Wakefit Home 212,Home & Kitchen,Wakefit,6680.0,4303.76,Marketplace,4.3
+P01078,Cello Home 826,Home & Kitchen,Cello,700.0,444.69,Assured,3.9
+P01079,Maybelline Beauty 917,Beauty,Maybelline,160.0,97.36,Assured,4.5
+P01080,Nike Fashion 708,Fashion,Nike,2180.0,1146.3,Marketplace,3.7
+P01081,Puma Fashion 336,Fashion,Puma,2720.0,1439.46,Marketplace,4.3
+P01082,Hasbro Toys 121,Toys,Hasbro,650.0,402.41,Assured,3.8
+P01083,Funskool Toys 189,Toys,Funskool,1190.0,683.44,Assured,4.0
+P01084,Arihant Books 693,Books,Arihant,262.0,170.39,Marketplace,3.9
+P01085,Adidas Sports 438,Sports & Fitness,Adidas,1640.0,1076.64,Marketplace,4.4
+P01086,Fortune Grocery 398,Grocery,Fortune,320.0,292.4,Assured,3.5
+P01087,Nestle Grocery 743,Grocery,Nestle,200.0,181.39,Assured,4.5
+P01088,Aashirvaad Grocery 430,Grocery,Aashirvaad,1040.0,898.79,Assured,4.4
+P01089,Prestige Home 223,Home & Kitchen,Prestige,2580.0,1666.22,Marketplace,3.9
+P01090,Nike Fashion 693,Fashion,Nike,1210.0,691.3,Assured,3.7
+P01091,HRX Fashion 417,Fashion,HRX,690.0,396.28,Marketplace,4.4
+P01092,Mamaearth Beauty 505,Beauty,Mamaearth,570.0,326.91,Marketplace,4.4
+P01093,Roadster Fashion 351,Fashion,Roadster,1210.0,655.05,Assured,4.0
+P01094,Biba Fashion 310,Fashion,Biba,1540.0,857.42,Marketplace,4.5
+P01095,Sleepwell Home 544,Home & Kitchen,Sleepwell,1270.0,797.99,Assured,3.6
+P01096,Roadster Fashion 239,Fashion,Roadster,590.0,336.06,Assured,4.1
+P01097,Sony Electronics 854,Electronics Accessories,Sony,1690.0,1211.38,Marketplace,4.1
+P01098,Oxford Books 453,Books,Oxford,336.0,205.8,Assured,4.1
+P01099,Penguin Books 450,Books,Penguin,321.0,189.76,Assured,4.1
+P01100,Voltas Appliances 824,Appliances,Voltas,26940.0,22726.2,Marketplace,4.3
+P01101,OnePlus Mobiles 978,Mobiles,OnePlus,9050.0,7749.76,Assured,3.9
+P01102,HRX Fashion 638,Fashion,HRX,890.0,482.75,Assured,4.1
+P01103,Fortune Grocery 188,Grocery,Fortune,130.0,115.67,Assured,3.5
+P01104,Penguin Books 115,Books,Penguin,518.0,313.8,Marketplace,4.0
+P01105,Acer Laptops 173,Laptops,Acer,60740.0,55047.94,Marketplace,4.2
+P01106,Amul Grocery 139,Grocery,Amul,200.0,177.6,Marketplace,3.9
+P01107,Apple Laptops 677,Laptops,Apple,49990.0,45452.01,Assured,4.4
+P01108,Roadster Fashion 413,Fashion,Roadster,1030.0,571.2,Assured,3.7
+P01109,Decathlon Sports 446,Sports & Fitness,Decathlon,1620.0,1041.94,Assured,3.4
+P01110,Samsung Appliances 442,Appliances,Samsung,35470.0,29449.61,Marketplace,4.3
+P01111,LG Appliances 553,Appliances,LG,31200.0,26084.89,Marketplace,4.1
+P01112,Puma Fashion 436,Fashion,Puma,3100.0,1675.51,Marketplace,3.9
+P01113,Maybelline Beauty 599,Beauty,Maybelline,890.0,548.56,Assured,3.9
+P01114,Barbie Toys 466,Toys,Barbie,370.0,225.64,Assured,4.1
+P01115,Cosco Sports 794,Sports & Fitness,Cosco,4390.0,2861.0,Marketplace,4.3
+P01116,Vivo Mobiles 250,Mobiles,Vivo,54660.0,48140.23,Assured,3.9
+P01117,Lenovo Laptops 272,Laptops,Lenovo,67280.0,60000.87,Assured,3.6
+P01118,Fortune Grocery 691,Grocery,Fortune,1470.0,1350.06,Assured,4.2
+P01119,Puma Fashion 601,Fashion,Puma,1610.0,842.55,Marketplace,3.6
+P01120,Hasbro Toys 544,Toys,Hasbro,1590.0,965.3,Assured,3.9
+P01121,Himalaya Beauty 245,Beauty,Himalaya,460.0,263.74,Marketplace,3.8
+P01122,Apple Laptops 731,Laptops,Apple,126840.0,117095.21,Marketplace,4.7
+P01123,Arihant Books 171,Books,Arihant,440.0,265.21,Assured,4.3
+P01124,Whirlpool Appliances 995,Appliances,Whirlpool,54930.0,45545.68,Marketplace,4.0
+P01125,Roadster Fashion 402,Fashion,Roadster,560.0,299.79,Assured,4.5
+P01126,Pigeon Home 295,Home & Kitchen,Pigeon,430.0,290.84,Assured,4.3
+P01127,Pigeon Home 418,Home & Kitchen,Pigeon,1580.0,1028.81,Assured,4.0
+P01128,Mamaearth Beauty 712,Beauty,Mamaearth,730.0,440.95,Assured,4.6
+P01129,Nivea Beauty 549,Beauty,Nivea,280.0,160.04,Assured,4.3
+P01130,Adidas Sports 156,Sports & Fitness,Adidas,540.0,356.34,Assured,3.9
+P01131,Yonex Sports 960,Sports & Fitness,Yonex,5060.0,3264.53,Assured,3.5
+P01132,Pigeon Home 659,Home & Kitchen,Pigeon,2170.0,1385.36,Assured,3.7
+P01133,Samsung Mobiles 211,Mobiles,Samsung,10470.0,9824.69,Assured,4.6
+P01134,Fortune Grocery 423,Grocery,Fortune,1380.0,1217.69,Marketplace,3.7
+P01135,Yonex Sports 834,Sports & Fitness,Yonex,1460.0,972.28,Marketplace,3.9
+P01136,Puma Fashion 771,Fashion,Puma,980.0,544.54,Marketplace,4.5
+P01137,Wakefit Home 896,Home & Kitchen,Wakefit,3180.0,2035.85,Marketplace,4.0
+P01138,Nike Fashion 775,Fashion,Nike,1690.0,956.55,Assured,4.1
+P01139,Apple Mobiles 251,Mobiles,Apple,16720.0,14687.63,Marketplace,4.0
+P01140,Biotique Beauty 317,Beauty,Biotique,2330.0,1429.19,Assured,4.0
+P01141,Roadster Fashion 735,Fashion,Roadster,1900.0,1087.38,Assured,4.7
+P01142,Tata Grocery 736,Grocery,Tata,210.0,184.69,Assured,4.7
+P01143,Arihant Books 795,Books,Arihant,298.0,188.89,Marketplace,3.9
+P01144,Oxford Books 635,Books,Oxford,739.0,479.58,Assured,4.1
+P01145,Roadster Fashion 529,Fashion,Roadster,2270.0,1222.06,Assured,3.6
+P01146,HRX Fashion 420,Fashion,HRX,3610.0,1921.11,Assured,4.0
+P01147,Amul Grocery 607,Grocery,Amul,130.0,114.83,Assured,4.7
+P01148,Nestle Grocery 795,Grocery,Nestle,480.0,416.55,Assured,4.0
+P01149,Wakefit Home 124,Home & Kitchen,Wakefit,1760.0,1180.69,Assured,4.0
+P01150,Hasbro Toys 970,Toys,Hasbro,1440.0,904.23,Assured,4.2
+P01151,Bosch Appliances 665,Appliances,Bosch,16420.0,13927.62,Assured,4.1
+P01152,Mattel Toys 215,Toys,Mattel,290.0,169.78,Marketplace,4.1
+P01153,Apple Mobiles 853,Mobiles,Apple,55930.0,51519.63,Assured,4.5
+P01154,Whirlpool Appliances 768,Appliances,Whirlpool,36780.0,32135.87,Assured,4.0
+P01155,Wakefit Home 508,Home & Kitchen,Wakefit,4950.0,3317.75,Assured,4.1
+P01156,Realme Mobiles 166,Mobiles,Realme,27760.0,26174.6,Assured,4.6
+P01157,Vivo Mobiles 969,Mobiles,Vivo,13210.0,11748.16,Assured,4.3
+P01158,Realme Mobiles 987,Mobiles,Realme,29640.0,27955.84,Assured,4.5
+P01159,HRX Fashion 569,Fashion,HRX,510.0,283.3,Assured,3.7
+P01160,Nestle Grocery 100,Grocery,Nestle,1210.0,1035.94,Assured,4.8
+P01161,Realme Mobiles 662,Mobiles,Realme,10800.0,9333.82,Marketplace,4.1
+P01162,Lakme Beauty 693,Beauty,Lakme,2030.0,1181.14,Assured,4.3
+P01163,Oxford Books 965,Books,Oxford,841.0,515.26,Assured,4.0
+P01164,Bosch Appliances 980,Appliances,Bosch,15650.0,12779.52,Assured,4.0
+P01165,LG Appliances 444,Appliances,LG,11410.0,9926.3,Assured,4.3
+P01166,Scholastic Books 253,Books,Scholastic,311.0,183.42,Assured,3.8
+P01167,Penguin Books 828,Books,Penguin,295.0,186.92,Marketplace,3.7
+P01168,Prestige Home 698,Home & Kitchen,Prestige,2790.0,1762.19,Assured,4.0
+P01169,HarperCollins Books 515,Books,HarperCollins,625.0,376.95,Marketplace,4.5
+P01170,Vivo Mobiles 827,Mobiles,Vivo,84680.0,78794.78,Marketplace,3.8
+P01171,Levis Fashion 780,Fashion,Levis,1850.0,1042.5,Assured,3.9
+P01172,Fortune Grocery 531,Grocery,Fortune,250.0,221.62,Marketplace,4.0
+P01173,Roadster Fashion 336,Fashion,Roadster,2050.0,1125.12,Assured,3.7
+P01174,Amul Grocery 405,Grocery,Amul,100.0,85.85,Assured,3.7
+P01175,Milton Home 140,Home & Kitchen,Milton,700.0,461.43,Assured,4.3
+P01176,Amul Grocery 961,Grocery,Amul,150.0,133.11,Marketplace,3.9
+P01177,Cello Home 905,Home & Kitchen,Cello,3810.0,2447.45,Marketplace,3.5
+P01178,Levis Fashion 458,Fashion,Levis,1940.0,1014.37,Marketplace,4.7
+P01179,Portronics Electronics 996,Electronics Accessories,Portronics,540.0,371.09,Assured,4.7
+P01180,Portronics Electronics 505,Electronics Accessories,Portronics,560.0,398.49,Assured,4.0
+P01181,Fortune Grocery 708,Grocery,Fortune,240.0,203.51,Assured,4.6
+P01182,Asus Laptops 479,Laptops,Asus,38580.0,34673.14,Marketplace,4.5
+P01183,Realme Mobiles 750,Mobiles,Realme,64580.0,57187.95,Marketplace,4.5
+P01184,Samsung Appliances 602,Appliances,Samsung,28140.0,24192.38,Marketplace,4.3
+P01185,LG Appliances 769,Appliances,LG,41740.0,36309.12,Marketplace,3.9
+P01186,Oxford Books 627,Books,Oxford,202.0,124.6,Assured,3.8
+P01187,Roadster Fashion 475,Fashion,Roadster,3810.0,2141.17,Assured,4.2
+P01188,Nivia Sports 552,Sports & Fitness,Nivia,420.0,274.24,Marketplace,4.0
+P01189,HP Laptops 105,Laptops,HP,53410.0,45193.55,Marketplace,3.8
+P01190,Nivea Beauty 332,Beauty,Nivea,370.0,220.59,Marketplace,3.6
+P01191,Roadster Fashion 462,Fashion,Roadster,470.0,252.31,Assured,3.9
+P01192,Puma Fashion 573,Fashion,Puma,1970.0,1058.67,Assured,4.5
+P01193,Lego Toys 959,Toys,Lego,1810.0,1045.89,Marketplace,4.5
+P01194,Nivia Sports 436,Sports & Fitness,Nivia,2610.0,1670.02,Assured,4.5
+P01195,Mattel Toys 461,Toys,Mattel,1130.0,680.97,Assured,4.0
+P01196,Voltas Appliances 562,Appliances,Voltas,29370.0,25379.04,Marketplace,3.7
+P01197,Portronics Electronics 161,Electronics Accessories,Portronics,3200.0,2282.76,Marketplace,4.1
+P01198,Maybelline Beauty 292,Beauty,Maybelline,260.0,151.29,Assured,4.1
+P01199,Levis Fashion 194,Fashion,Levis,1970.0,1032.24,Assured,4.3
+P01200,Amul Grocery 372,Grocery,Amul,1550.0,1326.09,Assured,3.6
