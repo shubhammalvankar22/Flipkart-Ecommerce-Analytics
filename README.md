@@ -2,11 +2,21 @@
 
 An end-to-end **E-Commerce Data Analytics project** using Python, SQL, Pandas, NumPy, Matplotlib, and Machine Learning to analyze sales performance, customer behavior, product trends, regional performance, and customer churn.
 
+## 📊 Project Notebook
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhammalvankar22/Flipkart-Ecommerce-Analytics/blob/main/notebooks/Flipkart_Ecommerce_Analysis.ipynb)
+
+**[Open the Project Notebook in Google Colab](https://colab.research.google.com/github/shubhammalvankar22/Flipkart-Ecommerce-Analytics/blob/main/notebooks/Flipkart_Ecommerce_Analysis.ipynb)**
+
 ## 📌 Project Overview
 
-This project analyzes e-commerce data containing orders, products, and customer information.
+This project analyzes e-commerce data containing:
 
-The project follows a complete analytics workflow:
+- Orders
+- Products
+- Customers
+
+The project follows an end-to-end analytics workflow:
 
 **Raw Data → Data Cleaning → Data Preparation → SQL Analysis → Python EDA → Business Analysis → Churn Prediction → Business Recommendations**
 
@@ -21,7 +31,7 @@ The objective is to transform messy transactional data into meaningful business 
 - Identify high-performing and declining product categories
 - Analyze customer purchasing behavior
 - Identify customer churn patterns
-- Analyze regional/state-level performance
+- Analyze regional and state-level performance
 - Compare product and category performance over time
 - Identify business risks and opportunities
 - Generate data-driven business recommendations
@@ -29,6 +39,7 @@ The objective is to transform messy transactional data into meaningful business 
 ## 🛠️ Technologies Used
 
 ### Programming & Analysis
+
 - Python
 - Pandas
 - NumPy
@@ -36,10 +47,12 @@ The objective is to transform messy transactional data into meaningful business 
 - Jupyter Notebook
 
 ### SQL
+
 - SQL
 - PostgreSQL
 
 ### Machine Learning
+
 - Scikit-learn
 - Random Forest Classifier
 - Train/Test Split
@@ -47,12 +60,14 @@ The objective is to transform messy transactional data into meaningful business 
 - ROC Curve
 - Feature Importance
 
-### Data Analysis
+### Data Analytics
+
 - Data Cleaning
 - Data Transformation
 - Exploratory Data Analysis (EDA)
 - KPI Analysis
 - Customer Segmentation
+- RFM Analysis
 - Churn Analysis
 - Trend Analysis
 - Business Analysis
@@ -63,15 +78,10 @@ The objective is to transform messy transactional data into meaningful business 
 Flipkart-Ecommerce-Analytics/
 │
 ├── data/
-│   ├── raw/
-│   │   ├── orders.csv
-│   │   ├── products.csv
-│   │   └── customers.csv
-│   │
-│   └── cleaned/
-│       ├── orders_clean.csv
-│       ├── products_clean.csv
-│       └── customers_clean.csv
+│   └── raw/
+│       ├── orders.csv
+│       ├── products.csv
+│       └── customers.csv
 │
 ├── notebooks/
 │   └── Flipkart_Ecommerce_Analysis.ipynb
@@ -87,22 +97,32 @@ Flipkart-Ecommerce-Analytics/
 │   ├── 08_churn_analysis.sql
 │   └── 09_revenue_driver_analysis.sql
 │
-├── clean_data.py
-├── requirements.txt
+├── .env.example
 ├── .gitignore
 └── README.md
 ```
 
 ## 🧹 Data Cleaning
 
-The original datasets contain duplicate records, missing values, inconsistent categorical values, malformed dates, invalid numeric values, currency symbols, incorrect percentages, and inconsistent IDs.
+The original datasets contain data-quality issues such as:
 
-The `clean_data.py` script performs the main preprocessing steps before analysis.
+- Duplicate records
+- Missing values
+- Inconsistent categorical values
+- Malformed dates
+- Invalid numeric values
+- Currency symbols
+- Incorrect percentages
+- Inconsistent IDs
+- Inconsistent city and state names
+- Inconsistent order status
+- Inconsistent payment methods
+
+The **data cleaning and preparation are performed within the Jupyter Notebook**, so a separate cleaned-data folder is not required.
 
 ### Cleaning includes
 
 - Removing duplicate records
-- Removing unnecessary columns
 - Standardizing column names
 - Cleaning customer and product IDs
 - Parsing and standardizing dates
@@ -114,30 +134,24 @@ The `clean_data.py` script performs the main preprocessing steps before analysis
 - Standardizing sales channels
 - Cleaning city and state names
 - Standardizing product categories
-- Standardizing customer attributes
-- Saving cleaned datasets for analysis
-
-### Run the cleaning pipeline
-
-```bash
-python clean_data.py
-```
-
-The cleaned datasets are generated in:
-
-```text
-data/cleaned/
-```
+- Preparing data for analysis
 
 ## 🔗 Data Preparation
 
-The cleaned datasets are combined using common identifiers:
+The datasets are connected using common identifiers such as:
 
 - `order_id`
 - `product_id`
 - `customer_id`
 
-The combined dataset is used for sales, customer, product, regional, and churn analysis.
+The prepared data is then used for:
+
+- Sales analysis
+- Customer analysis
+- Product analysis
+- Regional analysis
+- RFM analysis
+- Churn analysis
 
 ## 📊 Key KPIs
 
@@ -155,7 +169,7 @@ The project calculates important e-commerce KPIs including:
 - Regional Revenue
 - Customer Purchase Behavior
 
-Revenue is calculated using product price, quantity, and discount. Revenue from non-delivered orders is excluded from recognized revenue.
+Revenue analysis considers product price, quantity, and discount, with recognized revenue based on the relevant order status.
 
 ## 📈 Python Exploratory Data Analysis
 
@@ -188,6 +202,7 @@ The notebook performs exploratory and business analysis using Python.
 - Purchase behavior
 - Customer activity
 - Customer segmentation
+- RFM analysis
 - Churn-related behavior
 
 ## 🤖 Customer Churn Prediction
@@ -222,17 +237,17 @@ The model is used to understand customer behavior associated with churn risk and
 
 The `sql/` directory contains SQL analysis covering:
 
-- Data quality checks
-- KPI analysis
-- Sales analysis
-- Customer analysis
-- Product analysis
-- Regional analysis
-- RFM analysis
-- Churn analysis
-- Revenue-driver analysis
+1. Data Quality Checks
+2. KPI Analysis
+3. Sales Analysis
+4. Customer Analysis
+5. Product Analysis
+6. Regional Analysis
+7. RFM Analysis
+8. Churn Analysis
+9. Revenue Driver Analysis
 
-SQL techniques used include:
+### SQL techniques used
 
 - `SELECT`
 - `WHERE`
@@ -265,23 +280,17 @@ Examples include:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Flipkart-Ecommerce-Analytics.git
+git clone https://github.com/shubhammalvankar22/Flipkart-Ecommerce-Analytics.git
 cd Flipkart-Ecommerce-Analytics
 ```
 
-### 2. Install dependencies
+### 2. Install required Python libraries
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib scikit-learn jupyter
 ```
 
-### 3. Run data cleaning
-
-```bash
-python clean_data.py
-```
-
-### 4. Open Jupyter Notebook
+### 3. Open Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -293,7 +302,17 @@ Open:
 notebooks/Flipkart_Ecommerce_Analysis.ipynb
 ```
 
-Run the notebook from beginning to end.
+### 4. Run the notebook
+
+Run the notebook from the first cell to the last cell.
+
+The notebook performs the data cleaning, preparation, analysis, visualization, and machine learning workflow.
+
+## 🌐 Google Colab
+
+The notebook can also be opened directly in Google Colab:
+
+**[Open in Google Colab](https://colab.research.google.com/github/shubhammalvankar22/Flipkart-Ecommerce-Analytics/blob/main/notebooks/Flipkart_Ecommerce_Analysis.ipynb)**
 
 ## 📌 Project Outcome
 
@@ -313,9 +332,10 @@ into one practical e-commerce analytics project.
 - Pandas
 - NumPy
 - Matplotlib
+- Scikit-learn
 - Data Cleaning
-- Exploratory Data Analysis
 - Data Transformation
+- Exploratory Data Analysis
 - KPI Development
 - Business Analytics
 - Customer Analytics
@@ -324,3 +344,8 @@ into one practical e-commerce analytics project.
 - Random Forest
 - Feature Engineering
 - Data-Driven Decision Making
+
+## 🔗 Repository
+
+**GitHub:**  
+https://github.com/shubhammalvankar22/Flipkart-Ecommerce-Analytics
